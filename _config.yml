@@ -1,4 +1,14 @@
-title: "Remote theme example"
+title: "DaMaLOS"
 remote_theme: pmarsceill/just-the-docs
-color_scheme: "dark"
+logo: ./damalos.gif
 search_enabled: false
+aux_links:
+  "Home": "../index"
+footer_content: "email: damalos2020@easychair.org | Follow us on twitter @ZBMED #damalos2020"
+
+
+description: "First ISWC co-located workshop on Research data management for Linked Open Science - DaMaLOS 2020"
+twitter_username: zbmed
+github_username:  zbmed
+email: ljgarcia@zbmed.de
+
