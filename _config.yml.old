@@ -1,0 +1,17 @@
+title: DaMaLOS
+description: >- # this means to ignore newlines until "baseurl:"
+  First ISWC co-located workshop on Research data management for Linked Open Science - DaMaLOS 2020
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: zbmed
+github_username:  zbmed
+email: ljgarcia@zbmed.de
+
+#theme: jekyll-theme-minimal
+#theme: "just-the-docs"
+remote_theme: pmarsceill/just-the-docs
+logo: ./damalos.gif
+search_enabled: false
+aux_links:
+  "Home": "../index"
+footer_content: "email: damalos2020@easychair.org | Follow us on twitter @ZBMED #damalos2020"
