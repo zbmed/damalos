@@ -8,9 +8,10 @@ github_username:  zbmed
 email: ljgarcia@zbmed.de
 
 #theme: jekyll-theme-minimal
-theme: "just-the-docs"
+#theme: "just-the-docs"
+remote_theme: pmarsceill/just-the-docs
 logo: ./damalos.gif
 search_enabled: false
 aux_links:
   "Home": "../index"
-footer_content: "Follow us on twitter @ZBMED #damalos2020"
+footer_content: "email: damalos2020@easychair.org | Follow us on twitter @ZBMED #damalos2020"

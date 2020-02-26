@@ -1,3 +1,9 @@
+---
+layout: default
+title: Program committee
+nav_order: 7
+---
+
 # Program committee
 
 * Erick Antezana (Bayer)

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Submission process
+nav_order: 4
+---
+
 # Submission process
 
 ## Types of submissions
@@ -6,11 +12,11 @@
 * Position papers (up to 4 pages): Presenting positions or research at early stages relevant to workshop topics
 
 ## Guidelines
-All submissions must be original and not simultaneously submitted to another journal or conference/workshop. All submissions must be in English. Proceedings of the workshop will be publicly available under [CC-by 4.0 license](https://creativecommons.org/licenses/by/4.0/); by submitting you agree to the use of this license for accepted paper. We welcome full (max 8 pages) and short/position (max 4 pages) papers formatted according to [LNCS templates](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
+All submissions must be original and not simultaneously submitted to another journal or conference/workshop. All submissions must be in English. Proceedings of the workshop will be publicly available under [CC-by 4.0 license](https://creativecommons.org/licenses/by/4.0/); by submitting you agree to the use of this license for accepted papers. We welcome full (max 8 pages) and short/position (max 4 pages) papers formatted according to [LNCS templates](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
 
-Accepted papers will be invited to submit an extended version to the [Journal of Biomedical Semantics (JBMS)](./i_jbms).
+Accepted papers will be invited to submit an extended version to the [Journal of Biomedical Semantics (JBMS)](./jbms).
 
- ## Topics
+## Topics
  DaMaLOS targets the following (and similar) topics:
 
 * Importance of Research Data Management (RDM) for LOD
