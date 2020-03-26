@@ -6,7 +6,7 @@ nav_order: 8
 
 # Organizing committee
 
-| ![ZB MED](../img/zbmed_logo_en.gif "ZB MED") | ![TIB](../img/tib.png "TIB") |
+| [![ZB MED](../img/zbmed_logo_en.gif "ZB MED")](https://www.zbmed.de/en/) | [![TIB](../img/tib.png "TIB")](https://www.tib.eu/en/) |
 
 ## Prof. Dr. Dietrich Rebholz-Schuhmann, ZB MED Information Centre for Life Sciences
 Scientific director at ZB MED Information Centre for Life Sciences, Cologne, Germany. Prof. D. Rebholz-Schuhmann is a medical doctor and a computer scientist.  Until recently, he has been the director of the Insight Center for Data Analytics in Galway (the former DERI institute). His research is positioned in semantic technologies in the biomedical domain. In his previous research he has established large-scale on-the-fly biomedical text mining solutions and has contributed to the semantic normalization in the biomedical domain. 
