@@ -7,6 +7,7 @@ nav_order: 5
 # Workshop schedule
 
 Date: 2 or 3 of November 2020, co-located with [ISWC](../docs/iswc)
+Access: ISWC is moving to a virtual mode this year, logistics are stil on-going. We will provide more information when available.
 
 ## Tentative workshop schedule
 _Times not confirmed yet_
