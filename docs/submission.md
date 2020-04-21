@@ -32,4 +32,4 @@ Accepted papers will be invited to submit an extended version to the [Journal of
 * How and what data produced by RDM/ROM plans could be automatically integrated into knowledge graph initiatives such as Open Aire and Web of Science
 
 ## Submission system
-All submisions should be done via [EasyChair DaMaLOS-2020 workshop](https://easychair.org/conferences/?conf=damalos2020)
+All submissions should be done via [EasyChair DaMaLOS-2020 workshop](https://easychair.org/conferences/?conf=damalos2020)
