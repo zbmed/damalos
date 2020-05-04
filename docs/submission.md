@@ -12,11 +12,11 @@ nav_order: 4
 * Position papers (up to 6 pages): Presenting positions or research at early stages relevant to workshop topics
 
 ## Guidelines
-All submissions must be original and not simultaneously submitted to another journal or conference/workshop. All submissions must be in English. Proceedings of the workshop will be publicly available under [CC-by 4.0 license](https://creativecommons.org/licenses/by/4.0/); by submitting you agree to the use of this license for accepted papers. We welcome full (max 10 pages) and short/position (max 6 pages) papers formatted according to [LNCS templates](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
+All submissions must be original and not simultaneously submitted to another journal or conference/workshop. All submissions must be in English. Proceedings of the workshop will be publicly available under [CC-by 4.0 license](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}; by submitting you agree to the use of this license for accepted papers. We welcome full (max 10 pages) and short/position (max 6 pages) papers formatted according to [LNCS templates](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines){:target="_blank"}
 
 Submissions will be evaluated by members of the [Program Committee](./pc.md)
 
-Accepted papers will be invited to submit an extended version to the [Journal of Biomedical Semantics (JBMS)](./jbms).
+Accepted papers will be invited to submit an extended version to the [Journal of Biomedical Semantics (JBMS)](./jbms){:target="_blank"}.
 
 ## Topics
  DaMaLOS targets the following (and similar) topics:

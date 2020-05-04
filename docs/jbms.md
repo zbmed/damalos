@@ -5,7 +5,7 @@ nav_order: 9
 ---
 
 # Journal of Biomedical Semantics
-The [Journal of Biomedical Semantics (JBMS)](https://jbiomedsem.biomedcentral.com/) addresses issues of semantic enrichment and semantic processing in the biomedical domain. The scope of the journal covers two main areas:
+The [Journal of Biomedical Semantics (JBMS)](https://jbiomedsem.biomedcentral.com/){:target="_blank"} addresses issues of semantic enrichment and semantic processing in the biomedical domain. The scope of the journal covers two main areas:
 * Infrastructure for biomedical semantics: focusing on semantic resources and repositories, meta-data management and resource description, knowledge representation and semantic frameworks, the Biomedical Semantic Web, and semantic interoperability, and
 * semantic mining, annotation, and analysis: focusing on approaches and applications of semantic resources; and tools for investigation, reasoning, prediction, and discoveries in biomedicine.
 
