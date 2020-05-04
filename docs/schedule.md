@@ -14,7 +14,7 @@ Access: ISWC is moving to a virtual mode this year, logistics are stil on-going.
 _Times not confirmed yet_
 
 |  | Welcome and introduction | [Organizers](./oc.md) | 
-|  | Keynote speaker | [Prof. Dr. Carole Goble](https://www.research.manchester.ac.uk/portal/carole.goble.html) |
+|  | Keynote speaker | [Prof. Dr. Carole Goble](https://www.research.manchester.ac.uk/portal/carole.goble.html){:target="_blank"} |
 |  | Presentation of accepted papers |  Chair: TBD |
 |  | Coffee/Tea break | |
 |  | Tutorial on Research Data Management | Justine Vandendorpe |
