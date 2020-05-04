@@ -8,7 +8,7 @@ nav_order: 2
 
 DaMaLOS-2020 (ISWC co-located) workshop will explore what is required for Research Data Management to effectively instantiate Linked Open Science, i.e., Open Science + Linked Open Data (LOD) principles, including effective support for LOD, automation by, e.g., machine/deep learning approaches, and innovations to include supporting data elements such as the software used to produce/consume it together with tutorials showcasing their usage. Furthermore, data management should be complemented by other research objects management plans, e.g. software and workflows, in order to get an integrated layer supporting all the edges of Linked Open Science. In this workshop we will keep a focus on data management but we will also have opportunities to discuss how other research objects play an important role.
 
-We welcome full (max 8 pages) and short/position (max 4 pages) papers on the following (or similar) topics:
+We welcome full (max 10 pages) and short/position (max 6 pages) papers on the following (or similar) topics:
 
 * Importance of Research Data Management (RDM) for LOD
 * Importance of other Research Objects Management (ROM) and their alignment with RDM and LOD

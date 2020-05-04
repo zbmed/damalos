@@ -6,15 +6,15 @@ nav_order: 5
 
 # Workshop schedule
 
-Date: 2 or 3 of November 2020, co-located with [ISWC](../docs/iswc)
+Date: TBD, co-located with [ISWC](../docs/iswc), main conference virtually from 2 to 6 November 2020
 
 Access: ISWC is moving to a virtual mode this year, logistics are stil on-going. We will provide more information when available.
 
 ## Tentative workshop schedule
 _Times not confirmed yet_
 
-|  | Welcome and introduction | Organizers | 
-|  | Keynote speaker | Prof. Dr. Carole Goble |
+|  | Welcome and introduction | [Organizers](./oc.md) | 
+|  | Keynote speaker | [Prof. Dr. Carole Goble](https://www.research.manchester.ac.uk/portal/carole.goble.html) |
 |  | Presentation of accepted papers |  Chair: TBD |
 |  | Coffee/Tea break | |
 |  | Tutorial on Research Data Management | Justine Vandendorpe |
