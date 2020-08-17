@@ -1,5 +1,5 @@
 # First virtual workshop on Research data* management for Linked Open Science - DaMaLOS 2020
-__* and associated research objects__
+__* and associated research objects (e.g., software, workflows, knowledge graphs)__
 
 ![DaMaLOS 2020](./img/damalos.jpg "DaMaLOS logo")
 
@@ -13,6 +13,7 @@ __* and associated research objects__
   "description": "First virtual workshop on Research data* management for Linked Open Science (* and associated research objects), co-located with the International Semantic Web Conference ISWC",
   "image": "https://zbmed.github.io/damalos/img/damalos.jpg",
   "startDate": "2020-11-02",
+  "endDate": "2020-11-03",
   "eventStatus": "https://schema.org/EventMovedOnline",
   "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
   "location": {
