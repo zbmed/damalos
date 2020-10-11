@@ -13,7 +13,7 @@ __* and associated research objects (e.g., software, workflows, knowledge graphs
   "description": "First virtual workshop on Research data* management for Linked Open Science (* and associated research objects), co-located with the International Semantic Web Conference ISWC",
   "image": "https://zbmed.github.io/damalos/img/damalos.jpg",
   "startDate": "2020-11-02",
-  "endDate": "2020-11-03",
+  "endDate": "2020-11-02",
   "eventStatus": "https://schema.org/EventMovedOnline",
   "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
   "location": {
@@ -44,7 +44,7 @@ __* and associated research objects (e.g., software, workflows, knowledge graphs
       "name": "International Semantic Web Conference ISWC 2020",
       "description": "The International Semantic Web Conference (ISWC) is the premier venue for presenting fundamental research, innovative technology, and applications concerning semantics, data, and the Web. It is the most important international venue to discuss and present latest advances and applications of the semantic Web, knowledge graphs, linked data, ontologies and artificial intelligence (AI) on the Web.",
       "image": "https://iswc2020.semanticweb.org/wp-content/uploads/2019/10/ISWC2020_logo_is.png",
-      "startDate": "2020-11-02",
+      "startDate": "2020-11-01",
       "endDate": "2020-11-06",
       "eventStatus": "https://schema.org/EventMovedOnline",
       "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
