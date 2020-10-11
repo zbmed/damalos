@@ -6,6 +6,10 @@ nav_order: 4
 
 # Submission process
 
+__________
+Please notice that the submission process is now closed. If you want information about the [camera-ready version](./camera), please visit the corresponding page.
+__________
+
 ## Types of submissions
 * Full papers (up to 10 pages): Presenting novel scientific research relevant to workshop topics
 * Short papers (up to 6 pages): Presenting supporting tools or training materials relevant to workshop topics
