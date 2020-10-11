@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Submission process
+title: Camera-ready submission
 nav_order: 4
 ---
 
