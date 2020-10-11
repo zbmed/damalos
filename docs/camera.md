@@ -17,13 +17,20 @@ Camera-ready versions for accepted papers should be submitted as a submission up
 
   * No header on the first page
   * Header for even pages (2, 4, and so), aligned to the left (please cut the title as necessary to make it fit in one line, if cut please add ... at the end):
-```
-#page-number Doe et al. (2020) Title of the article...
-```
+
+<table >
+  <tr>
+    <td style="text-align:left">#page-number Doe et al. (2020) Title of the article...</td>
+  </tr>
+</table>
+
   * Header for odd pages (3, 5, and so), aligned to the right:
-```  
-DaMaLOS@ISWC. PUBLISSO-Fachrepositorium. DOI:<assigned DOI> #page-number
-```
+
+<table >
+  <tr>
+    <td style="text-align:right">DaMaLOS@ISWC. PUBLISSO-Fachrepositorium. DOI:assigned DOI #page-number</td>
+  </tr>
+</table>
 
 ## License
 
