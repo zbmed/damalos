@@ -16,7 +16,7 @@ ISWC will be a virtual event this year. You have to register to attend to the ma
 
 <table border="1">
 <tbody>
-<tralign="center">
+<tr align="center">
 <th>Time (CET)</th>
 <th>Ativity</th>
 <th>Responsible</th>
