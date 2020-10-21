@@ -14,79 +14,79 @@ ISWC will be a virtual event this year. You have to register to attend to the ma
 
 ## Tentative workshop schedule
 
-<table border="1" style="color: black;">
+<table border="1">
 <tbody>
-<tr style="color: white;" align="center" bgcolor="black">
+<tralign="center">
 <th>Time (CET)</th>
 <th>Ativity</th>
 <th>Responsible</th>
 </tr>
-<tr bgcolor="#FFD7AB">
+<tr>
 <td>13:30 - 13:40</td>
 <td>Welcome and introduction</td>
 <td>Leyla Garcia (ZB MED)</td>
 </tr>
-<tr bgcolor="#9DC3E6">
+<tr>
 <td><strong>13:40 - 14:25</strong></td>
-<td><strong>[Keynote](#keynote)</strong></td>
+<td><strong><a href="#keynote">Keynote</a></strong></td>
 <td><strong>Prof. Dr. Carole Goble (The University of Manchester)</strong></td>
 </tr>
 <tr>
-<td style="color: white;" colspan="3" align="center" bgcolor="#404040">Data management plans - Chair S&ouml;ren Auer (TIB)</td>
+<td colspan="3" align="center"><strong>Data management plans - Chair S&ouml;ren Auer (TIB)</strong></td>
 </tr>
-<tr bgcolor="#FFD7AB">
+<tr>
 <td>14:25 - 14:40</td>
 <td>ASIO: a Research Management System based on Semantic technologies</td>
 <td>TBA</td>
 </tr>
-<tr bgcolor="#9DC3E6">
+<tr>
 <td>14:40 - 14:55</td>
 <td>Linked Open Data and Data Management Plans: possibilities and new potentials</td>
 <td>TBA</td>
 </tr>
-<tr bgcolor="#FFD7AB">
+<tr>
 <td>14:55 - 15:10</td>
 <td>Towards semantic representation of machine-actionable Data Management Plans</td>
 <td>Jo&atilde;o Cardoso</td>
 </tr>
-<tr bgcolor="#9DC3E6">
+<tr>
 <td>15:10 - 15:50</td>
 <td>Research Object Crates and Machine-actionable Data Management Plans;</td>
 <td>TBA</td>
 </tr>
-<tr style="color: white;" bgcolor="#BFBFBF">
+<tr>
 <td>15:25 - 15:20</td>
 <td colspan="2">Coffee break</td>
 </tr>
-<tr bgcolor="#9DC3E6">
-<td style="color: white;" colspan="3" align="center" bgcolor="#404040">Data and beyond - Chair Dietrich Rebholz-Schuhmann (ZB MED)</td>
+<tr>
+<td colspan="3" align="center"><strong>Data and beyond - Chair Dietrich Rebholz-Schuhmann (ZB MED)</strong></td>
 </tr>
-<tr bgcolor="#FFD7AB">
+<tr>
 <td><strong>15:50 - 16:10</strong></td>
 <td><strong>Open Research Knowledge Graph &ndash; Invited talk</strong></td>
 <td><strong>Markus Stocker (TIB)</strong></td>
 </tr>
-<tr bgcolor="#9DC3E6">
+<tr>
 <td>16:10 - 16:25</td>
 <td>Understanding Semantic Search on Scientific Repositories: Steps towards Meaningful Findability</td>
 <td>TBA</td>
 </tr>
-<tr bgcolor="#FFD7AB">
+<tr>
 <td>16:25 - 16:40</td>
 <td>FAIR Data Management to Access Patient Data for COVID-19 Crisis</td>
 <td>TBA</td>
 </tr>
-<tr bgcolor="#9DC3E6">
+<tr>
 <td>16:40 - 16:55</td>
 <td>Towards in-situ knowledge acquisition for research data provenance from electronic lab notebooks</td>
 <td>TBA</td>
 </tr>
-<tr bgcolor="#FFD7AB">
+<tr>
 <td>16:55 - 17:10</td>
 <td>Software as a first class citizen</td>
 <td>Leyla Garcia</td>
 </tr>
-<tr style="background-color: #9DC3E6">
+<tr>
 <td>17:10 - 17:55</td>
 <td>Wrap-up</td>
 <td>Dietrich Rebholz-Schuhmann</td>
