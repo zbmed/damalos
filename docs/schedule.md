@@ -94,7 +94,7 @@ ISWC will be a virtual event this year. You have to register to attend to the ma
 </tbody>
 </table>
 
-#
+
 
 
 ## Keynote
