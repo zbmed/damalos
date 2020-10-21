@@ -86,14 +86,16 @@ ISWC will be a virtual event this year. You have to register to attend to the ma
 <td>Software as a first class citizen</td>
 <td>Leyla Garcia</td>
 </tr>
-<tr bgcolor="#9DC3E6">
+<tr style="background-color: #9DC3E6">
 <td>17:10 - 17:55</td>
 <td>Wrap-up</td>
 <td>Dietrich Rebholz-Schuhmann</td>
 </tr>
 </tbody>
 </table>
-</br>
+
+#
+
 
 ## Keynote
 
