@@ -12,7 +12,7 @@ ISWC will be a virtual event this year. You have to register to attend to the ma
 
 **Workshop access**: We will use Zoom for the workshop and will share the link with registered atttendees a couple of days before the 2nd of November.
 
-## Tentative workshop schedule
+## Workshop schedule
 
 <table border="1">
 <tbody>
