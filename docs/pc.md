@@ -8,6 +8,7 @@ nav_order: 7
 
 * Erick Antezana (Bayer)
 * Alessia Bardi (Istituto di Scienza e Tecnologie dell’Informazione “A. Faedo”, OpenAire
+* Luiz Bonino (GO-FAIR)
 * Oscar Corcho (Universidad Politécnica de Madrid)
 * Robert Downs (The Center for International Earth Science Information Network (CIESIN))
 * Matias Frosterus (University of Helsinki, LIBER Europe)

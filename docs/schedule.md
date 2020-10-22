@@ -51,7 +51,7 @@ ISWC will be a virtual event this year. You have to register to attend to the ma
 </tr>
 <tr>
 <td>15:10 - 15:50</td>
-<td>Research Object Crates and Machine-actionable Data Management Plans;</td>
+<td>Research Object Crates and Machine-actionable Data Management Plans</td>
 <td>TBA</td>
 </tr>
 <tr>
