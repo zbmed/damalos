@@ -41,7 +41,7 @@ ISWC will be a virtual event this year. You have to register to attend to the ma
 </tr>
 <tr>
 <td>14:40 - 14:55</td>
-<td>Linked Open Data and Data Management Plans: possibilities and new potentials</td>
+<td>Data Management Plans and Linked Open Data: exploiting machine actionable data management plans through Open Science Graphs</td>
 <td>TBA</td>
 </tr>
 <tr>
@@ -59,7 +59,7 @@ ISWC will be a virtual event this year. You have to register to attend to the ma
 <td colspan="2">Coffee break</td>
 </tr>
 <tr>
-<td colspan="3" align="center"><strong>Data and beyond - Chair Dietrich Rebholz-Schuhmann (ZB MED)</strong></td>
+<td colspan="3" align="center"><strong>Data, Life Sciences and beyond - Chair Dietrich Rebholz-Schuhmann (ZB MED)</strong></td>
 </tr>
 <tr>
 <td><strong>15:50 - 16:10</strong></td>
@@ -68,17 +68,17 @@ ISWC will be a virtual event this year. You have to register to attend to the ma
 </tr>
 <tr>
 <td>16:10 - 16:25</td>
-<td>Understanding Semantic Search on Scientific Repositories: Steps towards Meaningful Findability</td>
+<td>FAIR Data Management to Access Patient Data</td>
 <td>TBA</td>
 </tr>
 <tr>
 <td>16:25 - 16:40</td>
-<td>FAIR Data Management to Access Patient Data for COVID-19 Crisis</td>
+<td>Towards in-situ knowledge acquisition for research data provenance from electronic lab notebooks</td>
 <td>TBA</td>
 </tr>
 <tr>
 <td>16:40 - 16:55</td>
-<td>Towards in-situ knowledge acquisition for research data provenance from electronic lab notebooks</td>
+<td>Understanding Semantic Search on Scientific Repositories: Steps towards Meaningful Findability</td>
 <td>TBA</td>
 </tr>
 <tr>
@@ -89,7 +89,7 @@ ISWC will be a virtual event this year. You have to register to attend to the ma
 <tr>
 <td>17:10 - 17:55</td>
 <td>Wrap-up</td>
-<td>Dietrich Rebholz-Schuhmann</td>
+<td>Organizers</td>
 </tr>
 </tbody>
 </table>
