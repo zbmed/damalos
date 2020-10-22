@@ -14,6 +14,10 @@ ISWC will be a virtual event this year. You have to register to attend to the ma
 
 ## Schedule (2nd of November 2020)
 
+
+Note: Presenters of accepted papers will have 15 minutes for their presentations, including questions. We recommend to prepare presentations for no longer than 12 minutes. Thanks.
+
+
 <table border="1">
 <tbody>
 <tr align="center">
