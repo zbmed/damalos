@@ -41,12 +41,12 @@ Note: Presenters of accepted papers will have 15 minutes for their presentations
 <tr>
 <td>14:25 - 14:40</td>
 <td>ASIO: a Research Management System based on Semantic technologies</td>
-<td>TBA</td>
+<td>Jose Emilio Labra Gayo</td>
 </tr>
 <tr>
 <td>14:40 - 14:55</td>
 <td>Data Management Plans and Linked Open Data: exploiting machine actionable data management plans through Open Science Graphs</td>
-<td>TBA</td>
+<td>Elli Papadopoulou</td>
 </tr>
 <tr>
 <td>14:55 - 15:10</td>
@@ -56,7 +56,7 @@ Note: Presenters of accepted papers will have 15 minutes for their presentations
 <tr>
 <td>15:10 - 15:50</td>
 <td>Research Object Crates and Machine-actionable Data Management Plans</td>
-<td>TBA</td>
+<td>Maroua Jaoua and Tomasz Miksa</td>
 </tr>
 <tr>
 <td>15:25 - 15:20</td>
@@ -73,17 +73,17 @@ Note: Presenters of accepted papers will have 15 minutes for their presentations
 <tr>
 <td>16:10 - 16:25</td>
 <td>FAIR Data Management to Access Patient Data</td>
-<td>TBA</td>
+<td>Núria Queralt Rosinach</td>
 </tr>
 <tr>
 <td>16:25 - 16:40</td>
 <td>Towards in-situ knowledge acquisition for research data provenance from electronic lab notebooks</td>
-<td>TBA</td>
+<td>Max Schröder</td>
 </tr>
 <tr>
 <td>16:40 - 16:55</td>
 <td>Understanding Semantic Search on Scientific Repositories: Steps towards Meaningful Findability</td>
-<td>TBA</td>
+<td>Thiago Gottardi</td>
 </tr>
 <tr>
 <td>16:55 - 17:10</td>
