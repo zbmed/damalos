@@ -40,7 +40,7 @@ Note: Presenters of accepted papers will have 15 minutes for their presentations
 </tr>
 <tr>
 <td>14:25 - 14:40</td>
-<td>ASIO: a Research Management System based on Semantic technologies</td>
+<td><a href="https://drive.google.com/file/d/1S9cGxjMguY9IvmUOZFIvTG0z8ePDGSxg/view?usp=sharing" target="_blank">ASIO: a Research Management System based on Semantic technologies</a></td>
 <td>Jose Emilio Labra Gayo</td>
 </tr>
 <tr>
@@ -68,7 +68,7 @@ Note: Presenters of accepted papers will have 15 minutes for their presentations
 <tr>
 <td><strong>15:50 - 16:10</strong></td>
 <td><strong>Open Research Knowledge Graph &ndash; Invited talk</strong></td>
-<td><strong>Markus Stocker (TIB)</strong></td>
+<td><strong>Yaser Jaradeh (TIB)</strong></td>
 </tr>
 <tr>
 <td>16:10 - 16:25</td>
