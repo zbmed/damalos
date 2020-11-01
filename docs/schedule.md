@@ -45,17 +45,17 @@ Note: Presenters of accepted papers will have 15 minutes for their presentations
 </tr>
 <tr>
 <td>14:40 - 14:55</td>
-<td>Data Management Plans and Linked Open Data: exploiting machine actionable data management plans through Open Science Graphs</td>
+<td><a href="https://drive.google.com/file/d/1yEi5PsEjyJA4LC6tFXyIAUzE_P7HTNvk/view?usp=sharing" target="_blank">Data Management Plans and Linked Open Data: exploiting machine actionable data management plans through Open Science Graphs</a></td>
 <td>Elli Papadopoulou</td>
 </tr>
 <tr>
 <td>14:55 - 15:10</td>
-<td>Towards semantic representation of machine-actionable Data Management Plans</td>
+<td><a href="https://drive.google.com/file/d/1885U4gdggdyQDuVx0rtI0Eq-QsfIKmqu/view?usp=sharing" target="_blank">Towards semantic representation of machine-actionable Data Management Plans</a></td>
 <td>Jo&atilde;o Cardoso</td>
 </tr>
 <tr>
 <td>15:10 - 15:50</td>
-<td>Research Object Crates and Machine-actionable Data Management Plans</td>
+<td><a href="https://drive.google.com/file/d/1GJanfGXdR2NSE41T7TbNzsqG6zJtfETg/view?usp=sharing" target="_blank">Research Object Crates and Machine-actionable Data Management Plans</a></td>
 <td>Maroua Jaoua and Tomasz Miksa</td>
 </tr>
 <tr>
@@ -72,22 +72,22 @@ Note: Presenters of accepted papers will have 15 minutes for their presentations
 </tr>
 <tr>
 <td>16:10 - 16:25</td>
-<td>FAIR Data Management to Access Patient Data</td>
+<td><a href="https://drive.google.com/file/d/1s9vNnADOdivqC8Mik1N4RwsK0-hYYZ0W/view?usp=sharing" target="_blank">FAIR Data Management to Access Patient Data</a></td>
 <td>Núria Queralt Rosinach</td>
 </tr>
 <tr>
 <td>16:25 - 16:40</td>
-<td>Towards in-situ knowledge acquisition for research data provenance from electronic lab notebooks</td>
+<td><a href="https://drive.google.com/file/d/1ZZDl18zTAzQxjQcvtAfjgaAkTh4-Yv9B/view?usp=sharing" target="_blank">Towards in-situ knowledge acquisition for research data provenance from electronic lab notebooks</a></td>
 <td>Max Schröder</td>
 </tr>
 <tr>
 <td>16:40 - 16:55</td>
-<td>Understanding Semantic Search on Scientific Repositories: Steps towards Meaningful Findability</td>
+<td><a href="https://drive.google.com/file/d/1cIR52nu35hwO07ucvrF1I8iHEIVXx6rY/view?usp=sharing" target="_blank">Understanding Semantic Search on Scientific Repositories: Steps towards Meaningful Findability</a></td>
 <td>Thiago Gottardi</td>
 </tr>
 <tr>
 <td>16:55 - 17:10</td>
-<td>Software as a first class citizen</td>
+<td><a href="https://drive.google.com/file/d/1-6vKdK4rP-J4u72EemfsU46AS9g-NUA_/view?usp=sharing" target="_blank">Software as a first-class citizen in research</a></td>
 <td>Leyla Garcia</td>
 </tr>
 <tr>
