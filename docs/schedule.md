@@ -22,7 +22,7 @@ Note: Presenters of accepted papers will have 15 minutes for their presentations
 <tbody>
 <tr align="center">
 <th>Time (CET)</th>
-<th>Ativity</th>
+<th width="50%">Ativity</th>
 <th>Responsible</th>
 </tr>
 <tr>
