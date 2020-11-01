@@ -45,7 +45,7 @@ Note: Presenters of accepted papers will have 15 minutes for their presentations
 </tr>
 <tr>
 <td>14:40 - 14:55</td>
-<td><a href="https://drive.google.com/file/d/1yEi5PsEjyJA4LC6tFXyIAUzE_P7HTNvk/view?usp=sharing" target="_blank">Data Management Plans and Linked Open Data: exploiting machine actionable data management plans through Open Science Graphs</a></td>
+<td><a href="https://drive.google.com/file/d/1yEi5PsEjyJA4LC6tFXyIAUzE_P7HTNvk/view?usp=sharing" target="_blank"><img src="../img/link.png" alt="Link"></a>Data Management Plans and Linked Open Data: exploiting machine actionable data management plans through Open Science Graphs</td>
 <td>Elli Papadopoulou</td>
 </tr>
 <tr>
