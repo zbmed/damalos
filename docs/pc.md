@@ -1,25 +1,26 @@
 ---
 layout: default
 title: Program committee
-nav_order: 7
+nav_order: 9
 ---
 
 # Program committee
 
 * Erick Antezana (Bayer)
-* Alessia Bardi (Istituto di Scienza e Tecnologie dell’Informazione “A. Faedo”, OpenAire
-* Luiz Bonino (GO-FAIR)
+* Sören Auer (TIB Leibniz Information Centre for Science and Technology)
+* Alessia Bardi (Istituto di Scienza e Tecnologie dell’Informazione “A. Faedo”, OpenAire)
 * Oscar Corcho (Universidad Politécnica de Madrid)
+* Melissa Cragin (San Diego Supercomputer Center)
 * Robert Downs (The Center for International Earth Science Information Network (CIESIN))
-* Matias Frosterus (University of Helsinki, LIBER Europe)
-* Alexander Garcia (BASF)
+* Chris Erdmann (American Geophysical Union)
+* Olga Ximena Giraldo (Vrije Universiteit)
+* Carole Goble (University of Manchester)
 * Alejandra Gonzalez Beltran (Science and Technology Facilities Council)
 * Robert Hoehdorf (Computational Bioscience Research Center, KAUST)
-* Rafael Jimenez (Alzheimer’s Research UK)
 * Senay Kafkas (Computational Bioscience Research Center, KAUST)
-* José Labra-Gayo (Universidad de Oviedo)
-* Malvika Sharan (The Alan Turing Institute)
+* Dan S. Katz (University of Illinois)
+* José Labra (Universidad de Oviedo)
+* Natalie Meyers (Hesburgh Libraries)
 * Justine Vandendorpe (ZB MED Information Centre for Life Sciences)
-* Andra Waagmeester (Micelio)
-* Cord Wiljes (University of Bielefeld)
+* Maria-Esther Vidal (L3S Research Center)
 * Mingfang Wu (Australian Research Data Commons)

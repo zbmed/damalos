@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Important dates
-nav_order: 3
+nav_order: 4
 ---
 
 # Important dates
-* Submission opens: 15th of March 2020 (more information on the [call for papers](./cfp) and the [submission process](./submission))
-* Submission due: 31st of August 2020 (extended deadline to the 8th of September)
-* Notification of accepted papers: 30th of September 2020
-* Camera ready papers due: 21st of October 2020 (more information on the [camera-ready version](./camera))
-* Publication of workshop proceedings: End of October 2020
-* Workshop: 2nd of November 2020 (half day)
+* Submission opens: 1st of April 2021 (more information on the [call for papers](./cfp) and the [submission process](./submission))
+* Submission due: TBA - around 22nd of August 2021
+* Notification of accepted papers: TBA - around 12th of September 2021
+* Camera ready papers due: TBA - around 30th of September 2021 (more information on the [camera-ready version](./camera))
+* Publication of workshop proceedings: October 2021
+* Workshop: 24th or 25th of October 2020 (half day)

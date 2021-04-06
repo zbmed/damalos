@@ -1,7 +1,17 @@
-# First virtual workshop on Research data* management for Linked Open Science - DaMaLOS 2020
-__* and associated research objects (e.g., software, workflows, knowledge graphs)__
+---
+layout: default
+title: Home
+nav_order: 1
+permalink: /
+---
 
-![DaMaLOS 2020](./img/damalos.jpg "DaMaLOS logo")
+# DaMaLOS 2021
+
+__2nd Workshop on Data and research objects management for Linked Open Science__
+
+_research objects (e.g., software, workflows, knowledge graphs)_
+
+![DaMaLOS 2021](./img/damalos-half.jpg "DaMaLOS logo")
 
 
 <script type="application/ld+json">
@@ -9,11 +19,11 @@ __* and associated research objects (e.g., software, workflows, knowledge graphs
   "@context": "https://schema.org",
   "@id": "https://zbmed.github.io/damalos",
   "@type": "Event",
-  "name": "DaMaLOS 2020",
-  "description": "First virtual workshop on Research data* management for Linked Open Science (* and associated research objects), co-located with the International Semantic Web Conference ISWC",
+  "name": "DaMaLOS 2021",
+  "description": "Second workshop on Data and research objects management for Linked Open Science, co-located with the International Semantic Web Conference ISWC",
   "image": "https://zbmed.github.io/damalos/img/damalos.jpg",
-  "startDate": "2020-11-02",
-  "endDate": "2020-11-02",
+  "startDate": "2021-10-24",
+  "endDate": "2021-10-25",
   "eventStatus": "https://schema.org/EventMovedOnline",
   "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
   "location": {
@@ -40,19 +50,18 @@ __* and associated research objects (e.g., software, workflows, knowledge graphs
   "about": "Research data is the mirror of experimental work. It complements scientific publications and is core input to data driven research. Most research activities follow the research data cycle, where data is continuously used, modified and produced, transitioning from one research group to another. For this cycle to prosper, we require Research Data Management plans supporting the findable, accessible, interoperable and reusable (FAIR) principles. Despite playing an important role, data on its own is not sufficient to establish Open Science nor Linked Open Science, i.e., Open Science plus Linked Open Data (LOD) principles. LOD principles, a.k.a. LOD 5 stars, follow objectives that overlap with FAIR principles such as 'openness' and the use of 'non-proprietary open formats'. In this workshop we will explore what is required for RDM to effectively instantiate Linked Open Science, including effective support for LOD, automation by, e.g., machine/deep learning approaches, and innovations to include supporting data elements such as the software used to produce/consume it or the tutorials showcasing usage and fostering further developments. Furthermore, data management should be complemented by other research objects management plans, e.g., software and workflows, in order to get an integrated layer supporting all the edges of Linked Open Science. In this workshop, we will focus on data management for Linked Open Science but we will also have opportunities to discuss how other research objects, i.e., other than data objects, play an important role.", 
   "superEvent": {
       "@type": "Event",
-      "@id": "https://iswc2020.semanticweb.org/",
-      "name": "International Semantic Web Conference ISWC 2020",
+      "@id": "https://iswc2021.semanticweb.org/",
+      "name": "International Semantic Web Conference ISWC 2021",
       "description": "The International Semantic Web Conference (ISWC) is the premier venue for presenting fundamental research, innovative technology, and applications concerning semantics, data, and the Web. It is the most important international venue to discuss and present latest advances and applications of the semantic Web, knowledge graphs, linked data, ontologies and artificial intelligence (AI) on the Web.",
-      "image": "https://iswc2020.semanticweb.org/wp-content/uploads/2019/10/ISWC2020_logo_is.png",
-      "startDate": "2020-11-01",
-      "endDate": "2020-11-06",
+      "startDate": "2021-10-24",
+      "endDate": "2021-10-28",
       "eventStatus": "https://schema.org/EventMovedOnline",
       "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
       "location": {
         "@type": "VirtualLocation",
-        "url": "https://iswc2020.semanticweb.org"
+        "url": "https://iswc2021.semanticweb.org"
       },
-      "url": "https://iswc2020.semanticweb.org"
+      "url": "https://iswc2021.semanticweb.org"
   }
 }
 </script>

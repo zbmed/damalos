@@ -1,0 +1,112 @@
+[
+  {
+    "@context": "https://schema.org",
+    "dc:conformsTo": "https://bioschemas.org/profiles/ScholarlyArticle/0.2-DRAFT-2020_12_03/", 
+    "@type": "ScholarlyArticle",
+    "@id": "https://doi.org/10.4126/FRL01-006423280",
+    "identifier": "DOI:10.4126/FRL01-006423280",
+    "name": "DaMaLOS - First Workshop on Data and Research Objects Management for Linked Open Science : Co-located at the International Semantic Web Conference ISWC 2020",
+    "headline": "DaMaLOS - First Workshop on Data and Research Objects Management for Linked Open Science : Co-located at the International Semantic Web Conference ISWC 2020",
+    "publisher": "https://repository.publisso.de/"
+  },
+  {
+    "@context": "https://schema.org",
+    "dc:conformsTo": "https://bioschemas.org/profiles/ScholarlyArticle/0.2-DRAFT-2020_12_03/", 
+    "@type": "ScholarlyArticle",
+    "@id": "https://doi.org/10.4126/FRL01-006423950",
+    "identifier": "DOI:10.4126/FRL01-006423950",
+    "name": "Keynote: The swings and roundabouts of a decade of fun and games with Research Objects",
+    "headline": "Keynote: The swings and roundabouts of a decade of fun and games with Research Objects",
+    "publisher": "https://repository.publisso.de/"
+  },
+  {
+    "@context": "https://schema.org",
+    "dc:conformsTo": "https://bioschemas.org/profiles/ScholarlyArticle/0.2-DRAFT-2020_12_03/", 
+    "@type": "ScholarlyArticle",
+    "@id": "https://doi.org/10.4126/FRL01-006423953",
+    "identifier": "DOI:10.4126/FRL01-006423953",
+    "name": "Invited talk: What is ORKG?",
+    "headline": "Invited talk: What is ORKG?",
+    "publisher": "https://repository.publisso.de/"
+  },
+  {
+    "@context": "https://schema.org",
+    "dc:conformsTo": "https://bioschemas.org/profiles/ScholarlyArticle/0.2-DRAFT-2020_12_03/", 
+    "@type": "ScholarlyArticle",
+    "@id": "https://doi.org/10.4126/FRL01-006423282",
+    "identifier": "DOI:10.4126/FRL01-006423282",
+    "name": "ASIO: a Research Management System based on Semantic technologies",
+    "headline": "ASIO: a Research Management System based on Semantic technologies",
+    "publisher": "https://repository.publisso.de/"
+  },
+  {
+    "@context": "https://schema.org",
+    "dc:conformsTo": "https://bioschemas.org/profiles/ScholarlyArticle/0.2-DRAFT-2020_12_03/", 
+    "@type": "ScholarlyArticle",
+    "@id": "https://doi.org/10.4126/FRL01-006423287",
+    "identifier": "DOI:10.4126/FRL01-006423287",
+    "name": "FAIR Data Management to Access Patient Data",
+    "headline": "FAIR Data Management to Access Patient Data",
+    "publisher": "https://repository.publisso.de/"
+  },
+  {
+    "@context": "https://schema.org",
+    "dc:conformsTo": "https://bioschemas.org/profiles/ScholarlyArticle/0.2-DRAFT-2020_12_03/", 
+    "@type": "ScholarlyArticle",
+    "@id": "https://doi.org/10.4126/FRL01-006423281",
+    "identifier": "DOI:10.4126/FRL01-006423281",
+    "name": "Understanding Semantic Search on Scientific Repositories: Steps towards Meaningful Findability",
+    "headline": "Understanding Semantic Search on Scientific Repositories: Steps towards Meaningful Findability",
+    "publisher": "https://repository.publisso.de/"
+  },
+  {
+    "@context": "https://schema.org",
+    "dc:conformsTo": "https://bioschemas.org/profiles/ScholarlyArticle/0.2-DRAFT-2020_12_03/", 
+    "@type": "ScholarlyArticle",
+    "@id": "https://doi.org/10.4126/FRL01-006423291",
+    "identifier": "DOI:10.4126/FRL01-006423291",
+    "name": "Research Object Crates and Machine-actionable Data Management Plans",
+    "headline": "Research Object Crates and Machine-actionable Data Management Plans",
+    "publisher": "https://repository.publisso.de/"
+  },
+  {
+    "@context": "https://schema.org",
+    "dc:conformsTo": "https://bioschemas.org/profiles/ScholarlyArticle/0.2-DRAFT-2020_12_03/", 
+    "@type": "ScholarlyArticle",
+    "@id": "https://doi.org/10.4126/FRL01-006423289",
+    "identifier": "DOI:10.4126/FRL01-006423289",
+    "name": "Towards semantic representation of machine-actionable Data Management Plans",
+    "headline": "Towards semantic representation of machine-actionable Data Management Plans",
+    "publisher": "https://repository.publisso.de/"
+  },
+  {
+    "@context": "https://schema.org",
+    "dc:conformsTo": "https://bioschemas.org/profiles/ScholarlyArticle/0.2-DRAFT-2020_12_03/", 
+    "@type": "ScholarlyArticle",
+    "@id": "https://doi.org/10.4126/FRL01-006423283 ",
+    "identifier": "DOI:10.4126/FRL01-006423283 ",
+    "name": "Data Management Plans and Linked Open Data: exploiting machine actionable data management plans through Open Science Graphs",
+    "headline": "Data Management Plans and Linked Open Data: exploiting machine actionable data management plans through Open Science Graphs",
+    "publisher": "https://repository.publisso.de/"
+  },
+  {
+    "@context": "https://schema.org",
+    "dc:conformsTo": "https://bioschemas.org/profiles/ScholarlyArticle/0.2-DRAFT-2020_12_03/", 
+    "@type": "ScholarlyArticle",
+    "@id": "https://doi.org/10.4126/FRL01-006423290",
+    "identifier": "DOI:10.4126/FRL01-006423290",
+    "name": "Software as a first-class citizen in research",
+    "headline": "Software as a first-class citizen in research",
+    "publisher": "https://repository.publisso.de/"
+  },
+  {
+    "@context": "https://schema.org",
+    "dc:conformsTo": "https://bioschemas.org/profiles/ScholarlyArticle/0.2-DRAFT-2020_12_03/", 
+    "@type": "ScholarlyArticle",
+    "@id": "https://doi.org/10.4126/FRL01-006423288",
+    "identifier": "DOI:10.4126/FRL01-006423288",
+    "name": "Towards in-situ knowledge acquisition for research data provenance from electronic lab notebooks",
+    "headline": "Towards in-situ knowledge acquisition for research data provenance from electronic lab notebooks",
+    "publisher": "https://repository.publisso.de/"
+  }
+]
