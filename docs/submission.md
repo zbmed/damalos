@@ -13,7 +13,7 @@ nav_order: 5
 * Research objects (up to 10 pages): Describing datasets, software, workflows, training materials
 
 ## Guidelines
-All submissions must be original and not simultaneously submitted to another journal or conference/workshop. All submissions must be in English. Proceedings of the workshop will be publicly available under [CC-by 4.0 license](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}; by submitting you agree to the use of this license for accepted papers. We welcome full (max 10 pages) and short/position (max 6 pages) papers formatted according to [LNCS templates](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines){:target="_blank"}
+All submissions must be original and not simultaneously submitted to another journal or conference/workshop. All submissions must be in English. Proceedings of the workshop will be publicly available under [CC-by 4.0 license](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}; by submitting you agree to the use of this license for accepted papers. We welcome **full research** (introducing novel research contributions, max 10 pages), **short research** (presenting early results or work in progress, max 6 pages), **position** (introducing an idea and discussion around it, max 6 pages) and **research objects** (description of datasets, software, workflows, max 10 pages) papers formatted according to [LNCS templates](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines){:target="_blank"}
 
 Submissions will be evaluated by members of the [Program Committee](./pc.md)
 

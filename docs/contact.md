@@ -6,7 +6,7 @@ nav_order: 12
 
 # Contact
 
-Leyla Garcia
+DaMaLOS 2021
 
 ZB MED Information Centre for Life Sciences
 

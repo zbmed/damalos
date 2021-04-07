@@ -9,6 +9,8 @@ permalink: /
 
 __2nd Workshop on Data and research objects management for Linked Open Science__
 
+__24th or 25th of October 2021__
+
 _research objects (e.g., software, workflows, knowledge graphs)_
 
 ![DaMaLOS 2021](./img/damalos-half.jpg "DaMaLOS logo")
