@@ -10,7 +10,7 @@ permalink: /
 <table>
   <tr>
     <td style="text-align:left">
-      <img src="/img/damalos-half.jpg" alt="DaMaLOS"/>
+      <img src="./img/damalos-half.jpg" alt="DaMaLOS"/>
     </td>
     <td>
     <strong>2nd Workshop on Data and research objects <br/>
