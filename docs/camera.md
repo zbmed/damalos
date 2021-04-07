@@ -8,7 +8,7 @@ nav_order: 6
 
 ## Guidelines
 
-Camera-ready versions for accepted papers should be submitted as a submission update to [EasyChair DaMaLOS-2021 workshop](https://easychair.org/conferences/?conf=damalos2021){:target="_blank"}. No authors should be added at this stage.
+Camera-ready versions for accepted papers should be submitted via [EasyChair DaMaLOS-2021 workshop proceedings](#){:target="_blank"}. No authors should be added at this stage.
 
 * Submission deadline (camera-ready version): TBA - around 30th of September 2021
 * Maximum length: 10 pages, modified [LNCS templates](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines){:target="_blank"}
