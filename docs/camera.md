@@ -49,4 +49,4 @@ Accepted papers will be invited to submit an extended version to the [Journal of
 
 ## Submission system
 
-All submissions should be done via [EasyChair DaMaLOS-2021 workshop](https://easychair.org/conferences/?conf=damalos2021){:target="_blank"}
+All submissions should be done via [EasyChair DaMaLOS-2021 workshop proceedings](#){:target="_blank"}
