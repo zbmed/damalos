@@ -7,9 +7,10 @@ nav_order: 5
 # Submission process
 
 ## Types of submissions
-* Full papers (up to 10 pages): Presenting novel scientific research relevant to workshop topics
-* Short papers (up to 6 pages): Presenting supporting tools or training materials relevant to workshop topics
-* Position papers (up to 6 pages): Presenting positions or research at early stages relevant to workshop topics
+* Full research papers (up to 10 pages): Presenting novel scientific research 
+* Short research papers (up to 6 pages): Presenting research results at early stages or ongoing work
+* Position papers (up to 6 pages): Introducing positions, ideas, opinions and discussions around them
+* Research objects (up to 10 pages): Describing datasets, software, workflows, training materials
 
 ## Guidelines
 All submissions must be original and not simultaneously submitted to another journal or conference/workshop. All submissions must be in English. Proceedings of the workshop will be publicly available under [CC-by 4.0 license](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}; by submitting you agree to the use of this license for accepted papers. We welcome full (max 10 pages) and short/position (max 6 pages) papers formatted according to [LNCS templates](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines){:target="_blank"}

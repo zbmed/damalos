@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: DaMaLOS 2021
 nav_order: 1
 permalink: /
 ---

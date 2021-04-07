@@ -9,76 +9,98 @@
 
 <url>
   <loc>https://zbmed.github.io/damalos/</loc>
-  <lastmod>2020-04-29T16:44:49+00:00</lastmod>
+  <lastmod>2021-04-06T14:49:28+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://zbmed.github.io/damalos/404.html</loc>
-  <lastmod>2020-04-29T16:44:49+00:00</lastmod>
-</url>
-<url>
   <loc>https://zbmed.github.io/damalos/docs/motivation.html</loc>
-  <lastmod>2020-04-29T16:44:49+00:00</lastmod>
+  <lastmod>2021-04-06T14:49:28+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://zbmed.github.io/damalos/docs/cfp.html</loc>
-  <lastmod>2020-04-29T16:44:49+00:00</lastmod>
+  <lastmod>2021-04-06T14:49:28+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://zbmed.github.io/damalos/docs/dates.html</loc>
-  <lastmod>2020-04-29T16:44:49+00:00</lastmod>
+  <lastmod>2021-04-06T14:49:28+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://zbmed.github.io/damalos/docs/submission.html</loc>
-  <lastmod>2020-04-29T16:44:49+00:00</lastmod>
+  <lastmod>2021-04-06T14:49:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://zbmed.github.io/damalos/docs/camera.html</loc>
+  <lastmod>2021-04-06T14:49:28+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://zbmed.github.io/damalos/docs/schedule.html</loc>
-  <lastmod>2020-04-29T16:44:49+00:00</lastmod>
+  <lastmod>2021-04-06T14:49:28+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://zbmed.github.io/damalos/docs/iswc.html</loc>
-  <lastmod>2020-04-29T16:44:49+00:00</lastmod>
+  <lastmod>2021-04-06T14:49:28+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://zbmed.github.io/damalos/docs/pc.html</loc>
-  <lastmod>2020-04-29T16:44:49+00:00</lastmod>
+  <lastmod>2021-04-06T14:49:28+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://zbmed.github.io/damalos/docs/oc.html</loc>
-  <lastmod>2020-04-29T16:44:49+00:00</lastmod>
+  <lastmod>2021-04-06T14:49:28+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://zbmed.github.io/damalos/docs/jbms.html</loc>
-  <lastmod>2020-04-29T16:44:49+00:00</lastmod>
+  <lastmod>2021-04-06T14:49:28+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://zbmed.github.io/damalos/docs/contact.html</loc>
-  <lastmod>2020-04-29T16:44:49+00:00</lastmod>
+  <lastmod>2021-04-06T14:49:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://zbmed.github.io/damalos/docs/2020.html</loc>
+  <lastmod>2021-04-06T14:49:28+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://zbmed.github.io/damalos/index</loc>
-  <lastmod>2020-04-29T16:44:49+00:00</lastmod>
+  <lastmod>2021-04-06T14:49:28+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://zbmed.github.io/damalos/docs/dates</loc>
-  <lastmod>2020-04-29T16:44:49+00:00</lastmod>
+  <lastmod>2021-04-06T14:49:28+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://zbmed.github.io/damalos/docs/submission</loc>
-  <lastmod>2020-04-29T16:44:49+00:00</lastmod>
+  <lastmod>2021-04-06T14:49:28+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://zbmed.github.io/damalos/docs/cfp</loc>
-  <lastmod>2020-04-29T16:44:49+00:00</lastmod>
+  <lastmod>2021-04-06T14:49:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zbmed.github.io/damalos/docs/camera</loc>
+  <lastmod>2021-04-06T14:49:28+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://zbmed.github.io/damalos/docs/jbms</loc>
-  <lastmod>2020-04-29T16:44:49+00:00</lastmod>
-</url>
-<url>
-  <loc>https://zbmed.github.io/damalos/docs/iswc</loc>
-  <lastmod>2020-04-29T16:44:49+00:00</lastmod>
+  <lastmod>2021-04-06T14:49:28+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 

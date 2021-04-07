@@ -18,7 +18,7 @@ nav_order: 9
 * Alejandra Gonzalez Beltran (Science and Technology Facilities Council)
 * Robert Hoehdorf (Computational Bioscience Research Center, KAUST)
 * Senay Kafkas (Computational Bioscience Research Center, KAUST)
-* Dan S. Katz (University of Illinois)
+* Daniel S. Katz (University of Illinois)
 * José Labra (Universidad de Oviedo)
 * Natalie Meyers (Hesburgh Libraries)
 * Justine Vandendorpe (ZB MED Information Centre for Life Sciences)
