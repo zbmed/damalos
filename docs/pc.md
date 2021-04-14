@@ -13,6 +13,7 @@ nav_order: 9
 * Melissa Cragin (San Diego Supercomputer Center)
 * Robert Downs (The Center for International Earth Science Information Network (CIESIN))
 * Chris Erdmann (American Geophysical Union)
+* Alexander Garcia (BASF)
 * Daniel Garijo (Universidad Politécnica de Madrid)
 * Olga Ximena Giraldo (Vrije Universiteit)
 * Carole Goble (University of Manchester)
