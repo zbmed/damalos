@@ -77,7 +77,8 @@ Research data is the mirror of experimental work. Data, together with the softwa
         "@type": "VirtualLocation",
         "url": "https://iswc2021.semanticweb.org"
       },
-      "url": "https://iswc2021.semanticweb.org"
+      "url": "https://iswc2021.semanticweb.org",
+      "image": "https://lh3.googleusercontent.com/qGymfVL8qkdQPWGJ2BYlYZRmAx9xhDWPqbIh_7pxlToccyY5TUZX91pGG9QVfuTcGJb_DzL_rDiddFVqvC9e3-Qpsrlqig=s1000"
   }
 }
 </script>
