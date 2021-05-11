@@ -34,7 +34,7 @@ nav_order: 7
 
 <tr>
 <td>13:50 - 14:00</td>
-<td><strong><a href="#keynote">Break and discussion topics</a></strong></td>
+<td>Break and discussion topics</td>
 <td><strong></strong></td>
 </tr>
 
