@@ -8,7 +8,7 @@ nav_order: 7
 
 **Date**: 24th October 2021
 
-**Time**: 13:00 - 17:00 CET, [find the time in your own time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=DaMaLOS&iso=20211024T13&p1=311&ah=4)
+**Time**: 13:00 - 17:00 CEST, [find the time in your own time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=DaMaLOS&iso=20211024T13&p1=311&ah=4)
 
 ## Schedule (TBC)
 
