@@ -9,6 +9,6 @@ nav_order: 4
 * Submission due: 8th of August 2021
 * Notification of accepted papers: 12th of September 2021
 * Camera ready papers due: 26th of September 2021 (more information on the [camera-ready version](./camera))
-* Publication of workshop proceedings: October 2021
+* Publication of workshop proceedings: late October 2021
 * Workshop: 24th or 25th of October 2021 (half day)
 * ISWC: 24th to 28th of October 2021
