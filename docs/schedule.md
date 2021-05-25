@@ -28,7 +28,7 @@ nav_order: 7
 
 <tr>
 <td>13:10 - 13:50</td>
-<td><strong><a href="#keynote">Keynote and Q&A</a></strong></td>
+<td><strong><a href="#keynote">Keynote speaker: Bianca Kramer</a></strong></td>
 <td><strong></strong></td>
 </tr>
 
@@ -96,11 +96,16 @@ nav_order: 7
 
 ## Keynote
 
-**Title**: Coming soon
-
-**Speaker**: Coming soon
-
-### Abstract
-
 ### Speaker
+
+<table><tbody>
+<tr>
+<td><img src="../img/bkramer.gif" alt="Bianca Kramer"></td>
+<td>Bianca Kramer</td>
+</tr>
+</tbody></table>
+
+
+
+Bianca Kramer ([@MsPhelps](https://twitter.com/msphelps)) is a scholarly communication librarian at [Utrecht University Library](https://www.uu.nl/en/university-library), with a strong focus on open science and open infrastructure. Through her work on the project ['101 innovations in scholarly communication'](https://101innovations.wordpress.com/) she investigates trends in innovations and tool usage across the research cycle, with special attention to open scholarly infrastructure. She researches and leads workshops on various aspects of scholarly communication (e.g. preprints, peer review, altmetrics) for researchers, students and other stakeholders in scholarly communication, and has an active interest in open access developments and monitoring, as well as in developments around rewards and recognition. She is on the board of [FORCE11](https://www.force11.org/) and was a member of the [EC Expert Group on the Future of Scholarly Communication and Scholarly Publishing](https://op.europa.eu/en/publication-detail/-/publication/464477b3-2559-11e9-8d04-01aa75ed71a1).
 
