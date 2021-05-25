@@ -18,7 +18,7 @@ permalink: /
     <br/>
     <italic>* research objects (e.g., software, workflows, knowledge graphs)</italic>
     <br/><br/>
-    <strong>Co-located with <a href="https://iswc2021.semanticweb.org/" target="_blank">ISWC</a> on the 24th of October 13:00 to 17:00 CEST 2021 [in your own time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=DaMaLOS&iso=20211024T13&p1=311&ah=4)</strong>
+    <strong>Co-located with <a href="https://iswc2021.semanticweb.org/" target="_blank">ISWC</a> on the 24th of October 13:00 to 17:00 CEST 2021 <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=DaMaLOS&iso=20211024T13&p1=311&ah=4)" target="_blank">in your own time zone</a></strong>
     <br/><br/>
     email: damalos2021@easychair.org <br/>
     Follow us on twitter @ZB_MED #damalos2021
