@@ -101,11 +101,15 @@ nav_order: 7
 <table><tbody>
 <tr>
 <td><img src="../img/bkramer.gif" alt="Bianca Kramer"></td>
-<td>Bianca Kramer</td>
+<td>
+Dr. Bianca Kramer<br/>
+<a href="https://twitter.com/msphelps" target="_blank">@MsPhelps</a><br/>
+<a href="https://orcid.org/0000-0002-5965-6560" target="_blank">Publications</a><br/>
+</td>
 </tr>
 </tbody></table>
 
 
 
-Bianca Kramer ([@MsPhelps](https://twitter.com/msphelps)) is a scholarly communication librarian at [Utrecht University Library](https://www.uu.nl/en/university-library), with a strong focus on open science and open infrastructure. Through her work on the project ['101 innovations in scholarly communication'](https://101innovations.wordpress.com/) she investigates trends in innovations and tool usage across the research cycle, with special attention to open scholarly infrastructure. She researches and leads workshops on various aspects of scholarly communication (e.g. preprints, peer review, altmetrics) for researchers, students and other stakeholders in scholarly communication, and has an active interest in open access developments and monitoring, as well as in developments around rewards and recognition. She is on the board of [FORCE11](https://www.force11.org/) and was a member of the [EC Expert Group on the Future of Scholarly Communication and Scholarly Publishing](https://op.europa.eu/en/publication-detail/-/publication/464477b3-2559-11e9-8d04-01aa75ed71a1).
+Bianca Kramer is a scholarly communication librarian at [Utrecht University Library](https://www.uu.nl/en/university-library), with a strong focus on open science and open infrastructure. Through her work on the project ['101 innovations in scholarly communication'](https://101innovations.wordpress.com/) she investigates trends in innovations and tool usage across the research cycle, with special attention to open scholarly infrastructure. She researches and leads workshops on various aspects of scholarly communication (e.g. preprints, peer review, altmetrics) for researchers, students and other stakeholders in scholarly communication, and has an active interest in open access developments and monitoring, as well as in developments around rewards and recognition. She is on the board of [FORCE11](https://www.force11.org/) and was a member of the [EC Expert Group on the Future of Scholarly Communication and Scholarly Publishing](https://op.europa.eu/en/publication-detail/-/publication/464477b3-2559-11e9-8d04-01aa75ed71a1).
 
