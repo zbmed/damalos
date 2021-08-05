@@ -6,7 +6,7 @@ nav_order: 4
 
 # Important dates
 * Submission opens: 1st of April 2021 (more information on the [call for papers](./cfp) and the [submission process](./submission))
-* Submission due: 8th of August 2021
+* Submission due: 8th of August 2021 (reach out if you need an extension, we follow a flexible approach)
 * Notification of accepted papers: 12th of September 2021
 * Camera ready papers due: 26th of September 2021 (more information on the [camera-ready version](./camera))
 * Publication of workshop proceedings: late October 2021
