@@ -25,4 +25,5 @@ nav_order: 9
 * Natalie Meyers (Hesburgh Libraries)
 * Justine Vandendorpe (ZB MED Information Centre for Life Sciences)
 * Maria-Esther Vidal (L3S Research Center)
+* Andra Waagmeester (Micelio) 
 * Mingfang Wu (Australian Research Data Commons)
