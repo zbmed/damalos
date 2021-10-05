@@ -61,7 +61,7 @@ The survey ontology embraces the research object principles, and defines an open
 We complement the discussion describing a complete survey research study carried out with CONEY and openly published as a research object.
 </span>
 </td>
-<td>TBD</td>
+<td>Mario Scrocca</td>
 </tr>
 
 <tr>
@@ -84,7 +84,7 @@ This paper contributes to compiling and publishing a structured dataset from the
 dataset using a scientometric approach and n-gram analysis. We apply an n-gram analysis of all the presented titles and abstracts of the dataset to learn the evolving topics discourse. Our analysis reveals interesting patterns over the evolution of the concerning topics in the community of Linked Open Data. We publish this dataset online under GNU General Public License v3.0.
 </span>
 </td>
-<td></td>
+<td>Enayat Rajabi</td>
 </tr>
 
 <tr>
@@ -118,7 +118,7 @@ In this paper, we present a semi-automatic approach to leverage the benefits of 
 	The FAIR Guiding Principles aim to improve findability, accessibility, interoperability and reusability for both humans and machines, initially aimed at scientific data, but also intended to apply to all sorts of research digital objects, with recent developments about their modification and application to software and computational workflows. In this position paper we argue that the FAIR principles also can apply to machine learning tools and models, though a direct application is not always possible as machine learning combines aspects of data and software. Here we discuss some of the elements of machine learning that lead to the need for some adaptation of the original FAIR principles, along with stakeholders that would benefit from this adaptation. We introduce the initial steps towards this adaptation, i.e., creating a community around it, some possible benefits beyond FAIR, and some of the open questions that such a community could tackle.
 </span>
 </td>
-<td>All</td>
+<td>Daniel Katz</td>
 </tr>
 
 <tr>
@@ -134,7 +134,7 @@ In this paper, we present a semi-automatic approach to leverage the benefits of 
 <tr>
 <td>16:30 - 17:00</td>
 <td>Panel/discussion topics and report</td>
-<td></td>
+<td>All</td>
 </tr>
 
 <tr>
