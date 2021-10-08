@@ -72,7 +72,7 @@ We complement the discussion describing a complete survey research study carried
 The notion of Linked Open Science rests on the assumption that Linked Data principles contribute to science and scientific data management in several distinct ways (e.g., by adding rich semantics to improve retrieval and reuse of data). This begs the question of the right level of granularity for such semantic enrichment. On the one extreme of the spectrum, one may provide semantic annotations on the level of entire datasets to improve retrieval while leaving the actual data untouched. On the other end, one may semantically describe every single datum, such as a particular observation leading to data that supports reasoning, automated conflation, and so on, while, at the same time, dramatically increasing the size of data, including redundancy. This paper reports on our experience in modeling heterogeneous environmental data using a semantically-enabled observation framework, namely the SOSA ontology and its extensions to handle observation collections. We discuss different means of using these observation collections and compare their pros and cons in terms of data size and ease of querying.
 </span>
 </td>
-<td>TBD</td>
+<td>Rui Zhu</td>
 </tr>
 
 <tr>
