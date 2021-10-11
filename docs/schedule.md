@@ -107,7 +107,7 @@ By stating a set of criteria, it helps to ensure submitted DMPs cover required a
 In this paper, we present a semi-automatic approach to leverage the benefits of maDMPs by providing SPARQL queries that represent requirements of Science Europe. The goal is to support reviewers in the assessment of DMPs expressed as maDMPs. The results shows that semantic web technologies can help in providing customised views to reviewers, but human inspection and interpretation is still needed.
 </span>
 </td>
-<td>TBD</td>
+<td>Tomasz Miksa</td>
 </tr>
 
 <tr>
