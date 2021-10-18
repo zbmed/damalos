@@ -12,7 +12,7 @@ nav_order: 7
 
 **Note:** Papers will be public and available at the PUBLISSO Fachrepositorium DaMaLOS 2021 collection closed to the workshop date
 
-## Schedule (TBC)
+## Schedule
 
 <table>
 <tbody>
@@ -29,15 +29,9 @@ nav_order: 7
 </tr>
 
 <tr>
-<td>13:10 - 13:50</td>
-<td><strong><a href="#keynote">Keynote speaker: Bianca Kramer</a></strong></td>
-<td><strong></strong></td>
-</tr>
-
-<tr>
-<td>13:50 - 14:10</td>
-<td>Q&A keynote</td>
-<td><strong></strong></td>
+<td>13:10 - 14:10</td>
+<td><strong><a href="#keynote">Keynote speaker: Bianca Kramer</a></strong> (+ Q&A)</td>
+<td><strong>Open metadata - where do we stand? </strong></td>
 </tr>
 
 <tr>
@@ -163,4 +157,15 @@ Dr. Bianca Kramer<br/>
 
 
 Bianca Kramer is a scholarly communication librarian at [Utrecht University Library](https://www.uu.nl/en/university-library), with a strong focus on open science and open infrastructure. Through her work on the project ['101 innovations in scholarly communication'](https://101innovations.wordpress.com/) she investigates trends in innovations and tool usage across the research cycle, with special attention to open scholarly infrastructure. She researches and leads workshops on various aspects of scholarly communication (e.g. preprints, peer review, altmetrics) for researchers, students and other stakeholders in scholarly communication, and has an active interest in open access developments and monitoring, as well as in developments around rewards and recognition. She is on the board of [FORCE11](https://www.force11.org/) and was a member of the [EC Expert Group on the Future of Scholarly Communication and Scholarly Publishing](https://op.europa.eu/en/publication-detail/-/publication/464477b3-2559-11e9-8d04-01aa75ed71a1).
+
+### Talk: Open metadata - where do we stand? 
+
+**Please cite it as:** Kramer, B. (2021). Open metadata - where do we stand? DaMaLOS 2021. ISWC-DaMaLOS Workshop, Online. https://dx.doi.org/10.4126/FRL01-006429411
+(Note: Link will become public after the workshop)
+
+Metadata form an important part of the research communication ecosystem - allowing  discovery, linking and integration of data on research process and outputs, research evaluation and metaresearch. It can be argued that publications, data and other research objects can only be FAIR when their metadata are open, and while there are many organizations working on providing open metadata, a number of challenges remain. 
+ 
+These include licensing issues, the existence of siloed collections of metadata and the continued commercial enclosure of certain types of metadata. There is also growing awareness of the need for transparency, provenance and community governance in open metadata collection and provision. Finally, there are questions around the pros and cons of centralization vs. distributed systems, and the role of community curation vs. authoritative sources of metadata. 
+ 
+This presentation will discuss these aspects, highlight a number of current initiatives towards open metadata, and discuss where these can strengthen each other and which gaps and biases in the open metadata landscape remain to be addressed.
 
