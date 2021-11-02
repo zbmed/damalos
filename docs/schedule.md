@@ -10,7 +10,7 @@ nav_order: 7
 
 **Time**: 13:00 - 17:00 CEST, [find the time in your own time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=DaMaLOS&iso=20211024T13&p1=311&ah=4)
 
-**Note:** Papers will be public and available at the PUBLISSO Fachrepositorium DaMaLOS 2021 collection closed to the workshop date
+**Note:** Papers are Open Access and available at the [PUBLISSO Fachrepositorium DaMaLOS 2021 collection](https://repository.publisso.de/resource?query[0][term]=%22https%3A%2F%2Fd-nb.info%2Fgnd%2F1241477477%22&sort=asc&order=@id)
 
 ## Schedule
 
@@ -31,7 +31,7 @@ nav_order: 7
 <tr>
 <td>13:10 - 14:10</td>
 <td><strong><a href="#keynote">Keynote speaker: Bianca Kramer</a></strong> (+ Q&A)</td>
-<td><strong>Open metadata - where do we stand? </strong></td>
+<td><strong>Open metadata - where do we stand?</strong> (<a href="https://dx.doi.org/10.4126/FRL01-006429411" target="blank">DOI:/10.4126/FRL01-006429411</a>)</td>
 </tr>
 
 <tr>
@@ -46,7 +46,7 @@ nav_order: 7
 
 <tr>
 <td>14:20 - 14:40</td>
-<td><strong>The Survey Ontology: Packaging Survey Research as Research Objects (DOI:10.4126/FRL01-006429412)</strong>
+<td><strong>The Survey Ontology: Packaging Survey Research as Research Objects</strong> (<a href="https://dx.doi.org/10.4126/FRL01-006429412" target="blank">DOI:10.4126/FRL01-006429412</a>)
 <br/>
 <span style="font-size: small">
 Surveys are a common and well explored method to collect information from people. Still, the sharing and reuse of survey data present several challenges for survey researchers that need to be supported in packaging and harmonising different resources describing a survey study.
@@ -60,7 +60,7 @@ We complement the discussion describing a complete survey research study carried
 
 <tr>
 <td>14:40 - 15:00</td>
-<td><strong>Environmental Observations in Knowledge Graphs (DOI:10.4126/FRL01-006429414)</strong>
+<td><strong>Environmental Observations in Knowledge Graphs</strong> (<a href="https://dx.doi.org/10.4126/FRL01-006429414" target="blank">DOI:10.4126/FRL01-006429414</a>)
 <br/>
 <span style="font-size: small">
 The notion of Linked Open Science rests on the assumption that Linked Data principles contribute to science and scientific data management in several distinct ways (e.g., by adding rich semantics to improve retrieval and reuse of data). This begs the question of the right level of granularity for such semantic enrichment. On the one extreme of the spectrum, one may provide semantic annotations on the level of entire datasets to improve retrieval while leaving the actual data untouched. On the other end, one may semantically describe every single datum, such as a particular observation leading to data that supports reasoning, automated conflation, and so on, while, at the same time, dramatically increasing the size of data, including redundancy. This paper reports on our experience in modeling heterogeneous environmental data using a semantically-enabled observation framework, namely the SOSA ontology and its extensions to handle observation collections. We discuss different means of using these observation collections and compare their pros and cons in terms of data size and ease of querying.
@@ -71,7 +71,7 @@ The notion of Linked Open Science rests on the assumption that Linked Data princ
 
 <tr>
 <td>15:00 - 15:20</td>
-<td><strong>Analysis of Scientific Literature of LDOW Workshops: A Scientometric and NLP approach (DOI:10.4126/FRL01-006429416)</strong>
+<td><strong>Analysis of Scientific Literature of LDOW Workshops: A Scientometric and NLP approach</strong> (<a href="https://dx.doi.org/10.4126/FRL01-006429416" target="blank">DOI:10.4126/FRL01-006429416</a>)
 <br/>
 <span style="font-size: small">
 This paper contributes to compiling and publishing a structured dataset from the scientific literature of the Linked Data on the Web (LDOW) workshop series. This workshop was the primary venue for publishing the frontier topics related to Semantic Web, Linked Open Data, and Web of Data for around ten years. Further, we analyze this
@@ -93,7 +93,7 @@ dataset using a scientometric approach and n-gram analysis. We apply an n-gram a
 
 <tr>
 <td>15:40 - 16:00</td>
-<td><strong>Automating Evaluation of Machine-Actionable Data Management Plans with Semantic Web Technologies (DOI:10.4126/FRL01-006429413)</strong>
+<td><strong>Automating Evaluation of Machine-Actionable Data Management Plans with Semantic Web Technologies</strong> (<a href="https://dx.doi.org/10.4126/FRL01-006429413" target="blank">DOI:10.4126/FRL01-006429413</a>)
 <br/>
 <span style="font-size: small">
 Machine-actionable data management plans (maDMPs) have, by their very nature, potential to bring advantages over data management plans that are written in text form. By employing maDMPs, not only researchers should be able to benefit from their merits, but also research funders receiving and assessing the DMPs. Science Europe, which is an association of major European research funders, have published an evaluation rubric that provides a common basis to support evaluation of DMPs.
@@ -106,7 +106,7 @@ In this paper, we present a semi-automatic approach to leverage the benefits of 
 
 <tr>
 <td>16:00 - 16:20</td>
-<td><strong>Working Towards Understanding the Role of FAIR for Machine Learning (DOI:10.4126/FRL01-006429415)</strong>
+<td><strong>Working Towards Understanding the Role of FAIR for Machine Learning</strong> (<a href="https://dx.doi.org/10.4126/FRL01-006429415" target="blank">DOI:10.4126/FRL01-006429415</a>)
 <br/>
 <span style="font-size: small">
 	The FAIR Guiding Principles aim to improve findability, accessibility, interoperability and reusability for both humans and machines, initially aimed at scientific data, but also intended to apply to all sorts of research digital objects, with recent developments about their modification and application to software and computational workflows. In this position paper we argue that the FAIR principles also can apply to machine learning tools and models, though a direct application is not always possible as machine learning combines aspects of data and software. Here we discuss some of the elements of machine learning that lead to the need for some adaptation of the original FAIR principles, along with stakeholders that would benefit from this adaptation. We introduce the initial steps towards this adaptation, i.e., creating a community around it, some possible benefits beyond FAIR, and some of the open questions that such a community could tackle.
@@ -160,8 +160,7 @@ Bianca Kramer is a scholarly communication librarian at [Utrecht University Libr
 
 ### Talk: Open metadata - where do we stand? 
 
-**Please cite it as:** Kramer, B. (2021). Open metadata - where do we stand? DaMaLOS 2021. ISWC-DaMaLOS Workshop, Online. https://dx.doi.org/10.4126/FRL01-006429411
-(Note: Link will become public after the workshop)
+**Please cite it as:** Kramer, B. (2021). Open metadata - where do we stand? DaMaLOS 2021. ISWC-DaMaLOS Workshop, Online. [https://dx.doi.org/10.4126/FRL01-006429411](https://dx.doi.org/10.4126/FRL01-006429411)
 
 Metadata form an important part of the research communication ecosystem - allowing  discovery, linking and integration of data on research process and outputs, research evaluation and metaresearch. It can be argued that publications, data and other research objects can only be FAIR when their metadata are open, and while there are many organizations working on providing open metadata, a number of challenges remain. 
  
