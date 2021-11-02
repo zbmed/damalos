@@ -30,8 +30,8 @@ nav_order: 7
 
 <tr>
 <td>13:10 - 14:10</td>
-<td><strong><a href="#keynote">Keynote speaker: Bianca Kramer</a></strong> (+ Q&A)</td>
-<td><strong>Open metadata - where do we stand?</strong> (<a href="https://dx.doi.org/10.4126/FRL01-006429411" target="blank">DOI:/10.4126/FRL01-006429411</a>)</td>
+<td><strong>Keynote: Open metadata - where do we stand?</strong> (<a href="https://dx.doi.org/10.4126/FRL01-006429411" target="blank">DOI:/10.4126/FRL01-006429411</a>)</td>
+<td><strong><a href="#keynote">Keynote speaker: Bianca Kramer</a></strong></td>
 </tr>
 
 <tr>
