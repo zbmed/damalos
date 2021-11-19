@@ -168,3 +168,100 @@ These include licensing issues, the existence of siloed collections of metadata 
  
 This presentation will discuss these aspects, highlight a number of current initiatives towards open metadata, and discuss where these can strengthen each other and which gaps and biases in the open metadata landscape remain to be addressed.
 
+<script type="application/ld+json">
+[
+  {
+    "@context": "https://schema.org",
+    "http://purl.org/dc/terms/conformsTo": "https://bioschemas.org/profiles/Dataset/0.3-RELEASE-2019_06_14", 
+    "@type": "Dataset",
+    "@id": "https://d-nb.info/gnd/1241477477",
+    "identifier": "https://d-nb.info/gnd/1241477477",
+    "name": "DaMaLOS 2021",
+    "description": "2nd Workshop on Data and Research Objects Management for Linked Open Science",
+    "keywords": "Research objects, Open Science, Data Management, Linked Data, Scholarly outcomes, Linked Open Science, FAIR",
+    "url": ["https://d-nb.info/gnd/1241477477", "https://repository.publisso.de/resource?query[0][term]=%22https://d-nb.info/gnd/1241477477%22" ],
+		"subjectOf": {
+			"@type": "Event",
+			"url": "https://zbmed.github.io/damalos/" 
+		} 
+  }, 
+  {
+    "@context": "https://schema.org",
+    "dc:conformsTo": "https://bioschemas.org/profiles/ScholarlyArticle/0.2-DRAFT-2020_12_03/", 
+    "@type": "ScholarlyArticle",
+    "@id": "https://doi.org/10.4126/FRL01-006429410",
+    "identifier": "DOI:10.4126/FRL01-006429410",
+    "name": "DaMaLOS 2021 - Second Workshop on Data and Research Objects Management for Linked Open Science - Editorial Note : Co-located with the International Semantic Web Conference ISWC 2021",
+    "headline": "DaMaLOS 2021 - Second Workshop on Data and Research Objects Management for Linked Open Science - Editorial Note : Co-located with the International Semantic Web Conference ISWC 2021",
+    "publisher": "https://repository.publisso.de/",
+		"isPartOf": { "@id": "https://d-nb.info/gnd/1241477477"}
+  },
+  {
+    "@context": "https://schema.org",
+    "dc:conformsTo": "https://bioschemas.org/profiles/ScholarlyArticle/0.2-DRAFT-2020_12_03/", 
+    "@type": "ScholarlyArticle",
+    "@id": "https://doi.org/10.4126/FRL01-006429411",
+    "identifier": "DOI:10.4126/FRL01-006429411",
+    "name": "Open metadata - where do we stand?",
+    "headline": "Open metadata - where do we stand?",
+    "publisher": "https://repository.publisso.de/",
+		"isPartOf": { "@id": "https://d-nb.info/gnd/1241477477"}
+  },
+  {
+    "@context": "https://schema.org",
+    "dc:conformsTo": "https://bioschemas.org/profiles/ScholarlyArticle/0.2-DRAFT-2020_12_03/", 
+    "@type": "ScholarlyArticle",
+    "@id": "https://doi.org/10.4126/FRL01-006429412",
+    "identifier": "DOI:10.4126/FRL01-006429412",
+    "name": "The Survey Ontology: Packaging Survey Research as Research Objects",
+    "headline": "The Survey Ontology: Packaging Survey Research as Research Objects",
+    "publisher": "https://repository.publisso.de/",
+		"isPartOf": { "@id": "https://d-nb.info/gnd/1241477477"}
+  },
+  {
+    "@context": "https://schema.org",
+    "dc:conformsTo": "https://bioschemas.org/profiles/ScholarlyArticle/0.2-DRAFT-2020_12_03/", 
+    "@type": "ScholarlyArticle",
+    "@id": "https://doi.org/10.4126/FRL01-006429413",
+    "identifier": "DOI:10.4126/FRL01-006429413",
+    "name": "Automating Evaluation of Machine-Actionable Data Management Plans with Semantic Web Technologies",
+    "headline": "Automating Evaluation of Machine-Actionable Data Management Plans with Semantic Web Technologies",
+    "publisher": "https://repository.publisso.de/",
+		"isPartOf": { "@id": "https://d-nb.info/gnd/1241477477"}
+  },
+  {
+    "@context": "https://schema.org",
+    "dc:conformsTo": "https://bioschemas.org/profiles/ScholarlyArticle/0.2-DRAFT-2020_12_03/", 
+    "@type": "ScholarlyArticle",
+    "@id": "https://doi.org/10.4126/FRL01-006429414",
+    "identifier": "DOI:10.4126/FRL01-006429414",
+    "name": "Environmental Observations in Knowledge Graphs",
+    "headline": "Environmental Observations in Knowledge Graphs",
+    "publisher": "https://repository.publisso.de/",
+		"isPartOf": { "@id": "https://d-nb.info/gnd/1241477477"}
+  },
+  {
+    "@context": "https://schema.org",
+    "dc:conformsTo": "https://bioschemas.org/profiles/ScholarlyArticle/0.2-DRAFT-2020_12_03/", 
+    "@type": "ScholarlyArticle",
+    "@id": "https://doi.org/10.4126/FRL01-006429415",
+    "identifier": "DOI:10.4126/FRL01-006429415",
+    "name": "Working Towards Understanding the Role of FAIR for Machine Learning",
+    "headline": "Working Towards Understanding the Role of FAIR for Machine Learning",
+    "publisher": "https://repository.publisso.de/",
+		"isPartOf": { "@id": "https://d-nb.info/gnd/1241477477"}
+  },
+  {
+    "@context": "https://schema.org",
+    "dc:conformsTo": "https://bioschemas.org/profiles/ScholarlyArticle/0.2-DRAFT-2020_12_03/", 
+    "@type": "ScholarlyArticle",
+    "@id": "https://doi.org/10.4126/FRL01-006429416",
+    "identifier": "DOI:10.4126/FRL01-006429416",
+    "name": "Analysis of Scientific Literature of LDOW Workshops: A Scientometric and NLP approach",
+    "headline": "Analysis of Scientific Literature of LDOW Workshops: A Scientometric and NLP approach",
+    "publisher": "https://repository.publisso.de/",
+		"isPartOf": { "@id": "https://d-nb.info/gnd/1241477477"}
+  }
+]
+</script>
+
