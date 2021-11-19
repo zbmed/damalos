@@ -182,12 +182,16 @@ This presentation will discuss these aspects, highlight a number of current init
     "url": ["https://d-nb.info/gnd/1241477477", "https://repository.publisso.de/resource?query[0][term]=%22https://d-nb.info/gnd/1241477477%22" ],
 		"subjectOf": {
 			"@type": "Event",
-			"url": "https://zbmed.github.io/damalos/" 
-		} 
+			"url": "https://zbmed.github.io/damalos/",
+			"location": "Online",
+			"name": "DaMaLOS 2021",
+			"startDate": "2021-10-24",
+      "endDate": "2021-10-24"
+		}
   }, 
   {
     "@context": "https://schema.org",
-    "http://purl.org/dc/terms/conformsTo"": "https://bioschemas.org/profiles/ScholarlyArticle/0.2-DRAFT-2020_12_03/", 
+    "http://purl.org/dc/terms/conformsTo": "https://bioschemas.org/profiles/ScholarlyArticle/0.2-DRAFT-2020_12_03/", 
     "@type": "ScholarlyArticle",
     "@id": "https://doi.org/10.4126/FRL01-006429410",
     "identifier": "DOI:10.4126/FRL01-006429410",
@@ -198,7 +202,7 @@ This presentation will discuss these aspects, highlight a number of current init
   },
   {
     "@context": "https://schema.org",
-    "http://purl.org/dc/terms/conformsTo"": "https://bioschemas.org/profiles/ScholarlyArticle/0.2-DRAFT-2020_12_03/", 
+    "http://purl.org/dc/terms/conformsTo": "https://bioschemas.org/profiles/ScholarlyArticle/0.2-DRAFT-2020_12_03/", 
     "@type": "ScholarlyArticle",
     "@id": "https://doi.org/10.4126/FRL01-006429411",
     "identifier": "DOI:10.4126/FRL01-006429411",
@@ -209,7 +213,7 @@ This presentation will discuss these aspects, highlight a number of current init
   },
   {
     "@context": "https://schema.org",
-    "http://purl.org/dc/terms/conformsTo"": "https://bioschemas.org/profiles/ScholarlyArticle/0.2-DRAFT-2020_12_03/", 
+    "http://purl.org/dc/terms/conformsTo": "https://bioschemas.org/profiles/ScholarlyArticle/0.2-DRAFT-2020_12_03/", 
     "@type": "ScholarlyArticle",
     "@id": "https://doi.org/10.4126/FRL01-006429412",
     "identifier": "DOI:10.4126/FRL01-006429412",
@@ -220,7 +224,7 @@ This presentation will discuss these aspects, highlight a number of current init
   },
   {
     "@context": "https://schema.org",
-    "http://purl.org/dc/terms/conformsTo"": "https://bioschemas.org/profiles/ScholarlyArticle/0.2-DRAFT-2020_12_03/", 
+    "http://purl.org/dc/terms/conformsTo": "https://bioschemas.org/profiles/ScholarlyArticle/0.2-DRAFT-2020_12_03/", 
     "@type": "ScholarlyArticle",
     "@id": "https://doi.org/10.4126/FRL01-006429413",
     "identifier": "DOI:10.4126/FRL01-006429413",
@@ -231,7 +235,7 @@ This presentation will discuss these aspects, highlight a number of current init
   },
   {
     "@context": "https://schema.org",
-    "http://purl.org/dc/terms/conformsTo"": "https://bioschemas.org/profiles/ScholarlyArticle/0.2-DRAFT-2020_12_03/", 
+    "http://purl.org/dc/terms/conformsTo": "https://bioschemas.org/profiles/ScholarlyArticle/0.2-DRAFT-2020_12_03/", 
     "@type": "ScholarlyArticle",
     "@id": "https://doi.org/10.4126/FRL01-006429414",
     "identifier": "DOI:10.4126/FRL01-006429414",
@@ -242,7 +246,7 @@ This presentation will discuss these aspects, highlight a number of current init
   },
   {
     "@context": "https://schema.org",
-    "http://purl.org/dc/terms/conformsTo"": "https://bioschemas.org/profiles/ScholarlyArticle/0.2-DRAFT-2020_12_03/", 
+    "http://purl.org/dc/terms/conformsTo": "https://bioschemas.org/profiles/ScholarlyArticle/0.2-DRAFT-2020_12_03/", 
     "@type": "ScholarlyArticle",
     "@id": "https://doi.org/10.4126/FRL01-006429415",
     "identifier": "DOI:10.4126/FRL01-006429415",
@@ -253,7 +257,7 @@ This presentation will discuss these aspects, highlight a number of current init
   },
   {
     "@context": "https://schema.org",
-    "http://purl.org/dc/terms/conformsTo"": "https://bioschemas.org/profiles/ScholarlyArticle/0.2-DRAFT-2020_12_03/", 
+    "http://purl.org/dc/terms/conformsTo": "https://bioschemas.org/profiles/ScholarlyArticle/0.2-DRAFT-2020_12_03/", 
     "@type": "ScholarlyArticle",
     "@id": "https://doi.org/10.4126/FRL01-006429416",
     "identifier": "DOI:10.4126/FRL01-006429416",
