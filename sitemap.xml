@@ -68,6 +68,11 @@
   <priority>0.80</priority>
 </url>
 <url>
+  <loc>https://zbmed.github.io/damalos/docs/2021.html</loc>
+  <lastmod>2022-01-10T16:40:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://zbmed.github.io/damalos/index</loc>
   <lastmod>2021-04-07T11:16:35+00:00</lastmod>
   <priority>0.64</priority>
