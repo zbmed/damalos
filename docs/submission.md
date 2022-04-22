@@ -8,9 +8,9 @@ nav_order: 5
 
 ## Journal permanent collection at JBioMedSem
 
-The [Journal of Biomedical Semantics](https://www.biomedcentral.com/){:target="_blank"} hosts a [DaMaLOS permanent collection](https://www.biomedcentral.com/collections/damalos){:target="_blank"}. This year we will welcome direct submissions to the journal collection for those researchers with a topic mature enough for peer-reviwed publication. If you opt for this option, please visit the [submission guideline](https://jbiomedsem.biomedcentral.com/submission-guidelines){:target="_blank"} provided by the journal. Make sure you select the DaMaLOS collection when submitting. 
+The [Journal of Biomedical Semantics](https://www.biomedcentral.com/){:target="_blank"} hosts a [DaMaLOS permanent collection](https://www.biomedcentral.com/collections/damalos){:target="_blank"}. This year we will welcome direct submissions to the journal collection for those researchers with a topic mature enough for peer-reviewed publication. If you opt for this option, please visit the [submission guideline](https://jbiomedsem.biomedcentral.com/submission-guidelines){:target="_blank"} provided by the journal. Make sure you select the DaMaLOS collection when submitting. 
 
-JBioMedSem offers a preprint server for submission to the journal while the peer-reviwed process is ongoing. 
+JBioMedSem offers a preprint server for submission to the journal while the peer-reviewed process is ongoing. 
 
 For those submitting to the journal track, we would also expect them to join, participate and present their works at the workshop.
 
