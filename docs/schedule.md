@@ -6,11 +6,11 @@ nav_order: 7
 
 # Workshop schedule
 
-**Date**: 24th October 2021
+**Date**: 23rd or 24th October 2022 TBD
 
-**Time**: 13:00 - 17:00 CEST, [find the time in your own time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=DaMaLOS&iso=20211024T13&p1=311&ah=4)
+**Time**: TBD
 
-**Note:** Papers are Open Access and available at the [PUBLISSO Fachrepositorium DaMaLOS 2021 collection](https://repository.publisso.de/resource?query[0][term]=%22https%3A%2F%2Fd-nb.info%2Fgnd%2F1241477477%22&sort=asc&order=@id)
+**Note:** Papers will be Open Access and available at the [PUBLISSO Fachrepositorium DaMaLOS 2022 collection](https://repository.publisso.de/){:target="_blank"}
 
 ## Schedule
 
@@ -23,111 +23,72 @@ nav_order: 7
 </tr>
 
 <tr>
-<td>13:00 - 13:10</td>
+<td>10'</td>
 <td>Welcome and introduction</td>
 <td>Organizers</td>
 </tr>
 
 <tr>
-<td>13:10 - 14:10</td>
-<td><strong>Keynote: Open metadata - where do we stand?</strong> (<a href="https://dx.doi.org/10.4126/FRL01-006429411" target="blank">DOI:/10.4126/FRL01-006429411</a>)</td>
-<td><strong><a href="#keynote">Keynote speaker: Bianca Kramer</a></strong></td>
+<td>45'</td>
+<td><strong>Keynote: TBA</strong></td>
+<td><strong><a href="#keynote">Keynote speaker: Prof. Eva María Méndez Rodríguez</a></strong></td>
 </tr>
 
 <tr>
-<td>14:10 - 14:20</td>
-<td>Short break and discussion topics (proposing a discussion topic)</td>
-<td><strong></strong></td>
+<td>10'</td>
+<td>Break</td>
+<td></td>
 </tr>
 
 <tr>
-<td colspan="3" align="center"><strong>First session: Applications and practical cases - Chair TBA</strong></td>
+<td colspan="3" align="center"><strong>First session: Paper presentations - Chair TBA</strong></td>
 </tr>
 
 <tr>
-<td>14:20 - 14:40</td>
-<td><strong>The Survey Ontology: Packaging Survey Research as Research Objects</strong> (<a href="https://dx.doi.org/10.4126/FRL01-006429412" target="blank">DOI:10.4126/FRL01-006429412</a>)
+<td>60'</td>
+<td>Papers presentations
 <br/>
 <span style="font-size: small">
-Surveys are a common and well explored method to collect information from people. Still, the sharing and reuse of survey data present several challenges for survey researchers that need to be supported in packaging and harmonising different resources describing a survey study.
-In this paper, we present the survey ontology that we designed to empower our CONEY toolkit for conversational surveys. Leveraging on Semantic Web technologies we aimed at building a solution to semantically annotate questions and answers at design time, and to easily elaborate and inter-link the collected data at analysis time.
-The survey ontology embraces the research object principles, and defines an open vocabulary to represent, annotate, and share a representation of the questionnaire structure and the gathered responses of a survey.
-We complement the discussion describing a complete survey research study carried out with CONEY and openly published as a research object.
+
 </span>
 </td>
-<td>Mario Scrocca</td>
+<td>Accepted papers</td>
 </tr>
 
 <tr>
-<td>14:40 - 15:00</td>
-<td><strong>Environmental Observations in Knowledge Graphs</strong> (<a href="https://dx.doi.org/10.4126/FRL01-006429414" target="blank">DOI:10.4126/FRL01-006429414</a>)
+<td>15'</td>
+<td>Break</td>
+<td></td>
+</tr>
+
+<tr>
+<td colspan="3" align="center"><strong>Second session: Paper presentations - Chair TBA</strong></td>
+</tr>
+
+<tr>
+<td>60'</td>
+<td>Papers presentations
 <br/>
 <span style="font-size: small">
-The notion of Linked Open Science rests on the assumption that Linked Data principles contribute to science and scientific data management in several distinct ways (e.g., by adding rich semantics to improve retrieval and reuse of data). This begs the question of the right level of granularity for such semantic enrichment. On the one extreme of the spectrum, one may provide semantic annotations on the level of entire datasets to improve retrieval while leaving the actual data untouched. On the other end, one may semantically describe every single datum, such as a particular observation leading to data that supports reasoning, automated conflation, and so on, while, at the same time, dramatically increasing the size of data, including redundancy. This paper reports on our experience in modeling heterogeneous environmental data using a semantically-enabled observation framework, namely the SOSA ontology and its extensions to handle observation collections. We discuss different means of using these observation collections and compare their pros and cons in terms of data size and ease of querying.
+
 </span>
 </td>
-<td>Rui Zhu</td>
+<td>Accepted papers</td>
 </tr>
 
 <tr>
-<td>15:00 - 15:20</td>
-<td><strong>Analysis of Scientific Literature of LDOW Workshops: A Scientometric and NLP approach</strong> (<a href="https://dx.doi.org/10.4126/FRL01-006429416" target="blank">DOI:10.4126/FRL01-006429416</a>)
-<br/>
-<span style="font-size: small">
-This paper contributes to compiling and publishing a structured dataset from the scientific literature of the Linked Data on the Web (LDOW) workshop series. This workshop was the primary venue for publishing the frontier topics related to Semantic Web, Linked Open Data, and Web of Data for around ten years. Further, we analyze this
-dataset using a scientometric approach and n-gram analysis. We apply an n-gram analysis of all the presented titles and abstracts of the dataset to learn the evolving topics discourse. Our analysis reveals interesting patterns over the evolution of the concerning topics in the community of Linked Open Data. We publish this dataset online under GNU General Public License v3.0.
-</span>
-</td>
-<td>Enayat Rajabi</td>
+<td>10'</td>
+<td>Break</td>
+<td></td>
 </tr>
 
 <tr>
-<td>15:20 - 15:40</td>
-<td>Long break and discussion topics (adding questions to the discussion topic)</td>
-<td>All</td>
+<td colspan="3" align="center"><strong>Third session: Group activity - Chair TBA</strong></td>
 </tr>
 
 <tr>
-<td colspan="3" align="center"><strong>Second session: FAIR and DMP - Chair TBA</strong></td>
-</tr>
-
-<tr>
-<td>15:40 - 16:00</td>
-<td><strong>Automating Evaluation of Machine-Actionable Data Management Plans with Semantic Web Technologies</strong> (<a href="https://dx.doi.org/10.4126/FRL01-006429413" target="blank">DOI:10.4126/FRL01-006429413</a>)
-<br/>
-<span style="font-size: small">
-Machine-actionable data management plans (maDMPs) have, by their very nature, potential to bring advantages over data management plans that are written in text form. By employing maDMPs, not only researchers should be able to benefit from their merits, but also research funders receiving and assessing the DMPs. Science Europe, which is an association of major European research funders, have published an evaluation rubric that provides a common basis to support evaluation of DMPs.
-By stating a set of criteria, it helps to ensure submitted DMPs cover required aspects and support FAIR data management.
-In this paper, we present a semi-automatic approach to leverage the benefits of maDMPs by providing SPARQL queries that represent requirements of Science Europe. The goal is to support reviewers in the assessment of DMPs expressed as maDMPs. The results shows that semantic web technologies can help in providing customised views to reviewers, but human inspection and interpretation is still needed.
-</span>
-</td>
-<td>Tomasz Miksa</td>
-</tr>
-
-<tr>
-<td>16:00 - 16:20</td>
-<td><strong>Working Towards Understanding the Role of FAIR for Machine Learning</strong> (<a href="https://dx.doi.org/10.4126/FRL01-006429415" target="blank">DOI:10.4126/FRL01-006429415</a>)
-<br/>
-<span style="font-size: small">
-	The FAIR Guiding Principles aim to improve findability, accessibility, interoperability and reusability for both humans and machines, initially aimed at scientific data, but also intended to apply to all sorts of research digital objects, with recent developments about their modification and application to software and computational workflows. In this position paper we argue that the FAIR principles also can apply to machine learning tools and models, though a direct application is not always possible as machine learning combines aspects of data and software. Here we discuss some of the elements of machine learning that lead to the need for some adaptation of the original FAIR principles, along with stakeholders that would benefit from this adaptation. We introduce the initial steps towards this adaptation, i.e., creating a community around it, some possible benefits beyond FAIR, and some of the open questions that such a community could tackle.
-</span>
-</td>
-<td>Daniel Katz</td>
-</tr>
-
-<tr>
-<td>16:20 - 16:30</td>
-<td>Short break and discussion topics (adding questions to the discussion topic)</td>
-<td>All</td>
-</tr>
-
-<tr>
-<td colspan="3" align="center"><strong>Third session: Discussion panel - Chair TBA</strong></td>
-</tr>
-
-<tr>
-<td>16:30 - 17:00</td>
-<td>Panel/discussion topics and report</td>
+<td>40'</td>
+<td>Activity for all</td>
 <td>All</td>
 </tr>
 
@@ -145,127 +106,18 @@ In this paper, we present a semi-automatic approach to leverage the benefits of 
 
 <table><tbody>
 <tr>
-<td><img src="../img/bkramer.gif" alt="Bianca Kramer"></td>
+<td><img src="../img/caraEva.JPG" alt="Prof. Eva María Méndez Rodríguez"></td>
 <td>
-Dr. Bianca Kramer<br/>
-<a href="https://twitter.com/msphelps" target="_blank">@MsPhelps</a><br/>
-<a href="https://orcid.org/0000-0002-5965-6560" target="_blank">Publications</a><br/>
+Prof. Eva María Méndez Rodríguez<br/>
+<a href="https://www.uc3m.es/ss/Satellite/UC3MInstitucional/en/Detalle/Organismo_C/1371296356253/1371206549464/Eva_Maria_Mendez_Rodriguez" target="_blank">Web page</a><br/>
+<a href="https://orcid.org/0000-0002-5337-4722" target="_blank">Publications</a><br/>
 </td>
 </tr>
 </tbody></table>
 
+Eva Méndez belongs to the first generation in Spain that has a diploma, a degree and a PhD in Documentation. Her doctoral thesis obtained the extraordinary doctorate award from UC3M (2002). She is a professor in the UC3M Department of Library and Information Science since March 1997. During the academic year 2005-06 she was a Fulbright-EU research fellow at the Metadata Research Center of the University of North Carolina in Chapel Hill (USA). She has participated in and / or directed various research projects and has advised many others in the areas of metadata, semantic web and web standards, open data, repositories and digital libraries, as well as information policies at various levels. She belongs to several technical and advisory committees: member of the Advisory Board of the Dublin Core Metadata Initiative DCMI (2005-), of the Advisory Board of OpenAire European Open Access infrastructure (2015-), Metadata2020 (2016-) or the Executive Committee of the CRUE University Library Network (REBIUN) (2015-2017). Since May 2016 he is a member of the High Level Advisory Group of the European Commission Open Science Policy Platform, representing YERUN. And in November 2017 it was recognized by the SPARC Europe Open Data Champion.
 
+In the field of UC3M, she has been director of the University Master's Degree in Libraries and Digital Information Services (2009-2012), Assistant Vice-Chancellor for Infrastructure and Environment (2011-2015), Assistant Vice-Chancellor for Strategy and Digital Education (2015-2017). Currently, she is the Deputy Vice Rector for Scientific Policy on this subject at YERUN..
 
-Bianca Kramer is a scholarly communication librarian at [Utrecht University Library](https://www.uu.nl/en/university-library), with a strong focus on open science and open infrastructure. Through her work on the project ['101 innovations in scholarly communication'](https://101innovations.wordpress.com/) she investigates trends in innovations and tool usage across the research cycle, with special attention to open scholarly infrastructure. She researches and leads workshops on various aspects of scholarly communication (e.g. preprints, peer review, altmetrics) for researchers, students and other stakeholders in scholarly communication, and has an active interest in open access developments and monitoring, as well as in developments around rewards and recognition. She is on the board of [FORCE11](https://www.force11.org/) and was a member of the [EC Expert Group on the Future of Scholarly Communication and Scholarly Publishing](https://op.europa.eu/en/publication-detail/-/publication/464477b3-2559-11e9-8d04-01aa75ed71a1).
-
-### Talk: Open metadata - where do we stand? 
-
-**Please cite it as:** Kramer, B. (2021). Open metadata - where do we stand? DaMaLOS 2021. ISWC-DaMaLOS Workshop, Online. [https://dx.doi.org/10.4126/FRL01-006429411](https://dx.doi.org/10.4126/FRL01-006429411)
-
-Metadata form an important part of the research communication ecosystem - allowing  discovery, linking and integration of data on research process and outputs, research evaluation and metaresearch. It can be argued that publications, data and other research objects can only be FAIR when their metadata are open, and while there are many organizations working on providing open metadata, a number of challenges remain. 
- 
-These include licensing issues, the existence of siloed collections of metadata and the continued commercial enclosure of certain types of metadata. There is also growing awareness of the need for transparency, provenance and community governance in open metadata collection and provision. Finally, there are questions around the pros and cons of centralization vs. distributed systems, and the role of community curation vs. authoritative sources of metadata. 
- 
-This presentation will discuss these aspects, highlight a number of current initiatives towards open metadata, and discuss where these can strengthen each other and which gaps and biases in the open metadata landscape remain to be addressed.
-
-<script type="application/ld+json">
-[
-  {
-    "@context": "https://schema.org",
-    "http://purl.org/dc/terms/conformsTo": "https://bioschemas.org/profiles/Dataset/0.3-RELEASE-2019_06_14", 
-    "@type": "Dataset",
-    "@id": "https://d-nb.info/gnd/1241477477",
-    "identifier": "https://d-nb.info/gnd/1241477477",
-    "name": "DaMaLOS 2021",
-    "description": "2nd Workshop on Data and Research Objects Management for Linked Open Science",
-    "keywords": "Research objects, Open Science, Data Management, Linked Data, Scholarly outcomes, Linked Open Science, FAIR",
-    "url": ["https://d-nb.info/gnd/1241477477", "https://repository.publisso.de/resource?query[0][term]=%22https://d-nb.info/gnd/1241477477%22" ],
-		"subjectOf": {
-			"@type": "Event",
-			"url": "https://zbmed.github.io/damalos/",
-			"location": "Online",
-			"name": "DaMaLOS 2021",
-			"startDate": "2021-10-24",
-      "endDate": "2021-10-24"
-		}
-  }, 
-  {
-    "@context": "https://schema.org",
-    "http://purl.org/dc/terms/conformsTo": "https://bioschemas.org/profiles/ScholarlyArticle/0.2-DRAFT-2020_12_03/", 
-    "@type": "ScholarlyArticle",
-    "@id": "https://doi.org/10.4126/FRL01-006429410",
-    "identifier": "DOI:10.4126/FRL01-006429410",
-    "name": "DaMaLOS 2021 - Second Workshop on Data and Research Objects Management for Linked Open Science - Editorial Note : Co-located with the International Semantic Web Conference ISWC 2021",
-    "headline": "DaMaLOS 2021 - Second Workshop on Data and Research Objects Management for Linked Open Science - Editorial Note : Co-located with the International Semantic Web Conference ISWC 2021",
-    "publisher": "https://repository.publisso.de/",
-		"isPartOf": { "@id": "https://d-nb.info/gnd/1241477477"}
-  },
-  {
-    "@context": "https://schema.org",
-    "http://purl.org/dc/terms/conformsTo": "https://bioschemas.org/profiles/ScholarlyArticle/0.2-DRAFT-2020_12_03/", 
-    "@type": "ScholarlyArticle",
-    "@id": "https://doi.org/10.4126/FRL01-006429411",
-    "identifier": "DOI:10.4126/FRL01-006429411",
-    "name": "Open metadata - where do we stand?",
-    "headline": "Open metadata - where do we stand?",
-    "publisher": "https://repository.publisso.de/",
-		"isPartOf": { "@id": "https://d-nb.info/gnd/1241477477"}
-  },
-  {
-    "@context": "https://schema.org",
-    "http://purl.org/dc/terms/conformsTo": "https://bioschemas.org/profiles/ScholarlyArticle/0.2-DRAFT-2020_12_03/", 
-    "@type": "ScholarlyArticle",
-    "@id": "https://doi.org/10.4126/FRL01-006429412",
-    "identifier": "DOI:10.4126/FRL01-006429412",
-    "name": "The Survey Ontology: Packaging Survey Research as Research Objects",
-    "headline": "The Survey Ontology: Packaging Survey Research as Research Objects",
-    "publisher": "https://repository.publisso.de/",
-		"isPartOf": { "@id": "https://d-nb.info/gnd/1241477477"}
-  },
-  {
-    "@context": "https://schema.org",
-    "http://purl.org/dc/terms/conformsTo": "https://bioschemas.org/profiles/ScholarlyArticle/0.2-DRAFT-2020_12_03/", 
-    "@type": "ScholarlyArticle",
-    "@id": "https://doi.org/10.4126/FRL01-006429413",
-    "identifier": "DOI:10.4126/FRL01-006429413",
-    "name": "Automating Evaluation of Machine-Actionable Data Management Plans with Semantic Web Technologies",
-    "headline": "Automating Evaluation of Machine-Actionable Data Management Plans with Semantic Web Technologies",
-    "publisher": "https://repository.publisso.de/",
-		"isPartOf": { "@id": "https://d-nb.info/gnd/1241477477"}
-  },
-  {
-    "@context": "https://schema.org",
-    "http://purl.org/dc/terms/conformsTo": "https://bioschemas.org/profiles/ScholarlyArticle/0.2-DRAFT-2020_12_03/", 
-    "@type": "ScholarlyArticle",
-    "@id": "https://doi.org/10.4126/FRL01-006429414",
-    "identifier": "DOI:10.4126/FRL01-006429414",
-    "name": "Environmental Observations in Knowledge Graphs",
-    "headline": "Environmental Observations in Knowledge Graphs",
-    "publisher": "https://repository.publisso.de/",
-		"isPartOf": { "@id": "https://d-nb.info/gnd/1241477477"}
-  },
-  {
-    "@context": "https://schema.org",
-    "http://purl.org/dc/terms/conformsTo": "https://bioschemas.org/profiles/ScholarlyArticle/0.2-DRAFT-2020_12_03/", 
-    "@type": "ScholarlyArticle",
-    "@id": "https://doi.org/10.4126/FRL01-006429415",
-    "identifier": "DOI:10.4126/FRL01-006429415",
-    "name": "Working Towards Understanding the Role of FAIR for Machine Learning",
-    "headline": "Working Towards Understanding the Role of FAIR for Machine Learning",
-    "publisher": "https://repository.publisso.de/",
-		"isPartOf": { "@id": "https://d-nb.info/gnd/1241477477"}
-  },
-  {
-    "@context": "https://schema.org",
-    "http://purl.org/dc/terms/conformsTo": "https://bioschemas.org/profiles/ScholarlyArticle/0.2-DRAFT-2020_12_03/", 
-    "@type": "ScholarlyArticle",
-    "@id": "https://doi.org/10.4126/FRL01-006429416",
-    "identifier": "DOI:10.4126/FRL01-006429416",
-    "name": "Analysis of Scientific Literature of LDOW Workshops: A Scientometric and NLP approach",
-    "headline": "Analysis of Scientific Literature of LDOW Workshops: A Scientometric and NLP approach",
-    "publisher": "https://repository.publisso.de/",
-		"isPartOf": { "@id": "https://d-nb.info/gnd/1241477477"}
-  }
-]
-</script>
+### Talk: TBD
 

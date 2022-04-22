@@ -6,12 +6,14 @@ nav_order: 6
 
 # Camera-ready version
 
+**This page only applies for submission to the workshop track**
+
 ## Guidelines
 
-Camera-ready versions for accepted papers should be submitted via [EasyChair DaMaLOS-2021 workshop proceedings](#){:target="_blank"}. No authors should be added at this stage.
+Camera-ready versions for accepted papers should be submitted via [EasyChair DaMaLOS-2022 workshop proceedings](https://easychair.org/conferences/?conf=damalos2022){:target="_blank"} as an update to the original submission. No authors should be added at this stage.
 
-* Submission deadline (camera-ready version): TBA - around 30th of September 2021
-* Maximum length: 10 pages, modified [LNCS templates](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines){:target="_blank"}
+* Submission deadline (camera-ready version): TBA - around 15th of October 2022
+* Maximum length: 10 pages for *research* and *reserach object papers* and 6 pages for *short research* and *position* papers using a modified [LNCS templates](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines){:target="_blank"}
 * Reserved DOI: A DOI will be communicated directly to authors (particularly corresponding authors)
 * Modifications to the LNCS template
   * No header on the first page
@@ -19,13 +21,15 @@ Camera-ready versions for accepted papers should be submitted via [EasyChair DaM
   * Header for odd pages (3, 5, and so), aligned to the right, see [Table 2](#table-2)
   * For an example, please see the [editorial note from DaMaLOS 2020](https://repository.publisso.de/resource/frl:6424220/data){:target="_blank"}
 
+**Note**: You will need to modify the template yourself (e.g., increase margins for headers) so the headers fit.
+
 ### Table 1
 
 _Header for even pages, alignment to the left_
 
 <table >
   <tr>
-    <td style="text-align:left">#page-number Doe et al. (2021) Title of the article...</td>
+    <td style="text-align:left">#page-number Doe et al. (2022) Title of the article...</td>
   </tr>
 </table>
 
@@ -41,7 +45,7 @@ _Header for odd pages (except the first one), alignment to the right_
 
 ## License
 
-Proceedings of the workshop will be publicly available under [CC-by 4.0 license](https://creativecommons.org/licenses/by/4.0/){:target="_blank"} in [PUBLISSO-Fachrepositorium](https://repository.publisso.de/), indexed by [BASE](https://www.base-search.net/). By submitting you agree to the use of this license for accepted papers. 
+Proceedings of the workshop will be publicly available under [CC-by 4.0 license](https://creativecommons.org/licenses/by/4.0/){:target="_blank"} in [PUBLISSO-Fachrepositorium](https://repository.publisso.de/){:target="_blank"}, indexed by [BASE](https://www.base-search.net/){:target="_blank"}. By submitting you agree to the use of this license for accepted papers. 
 
 ## Journal submission
 
@@ -49,4 +53,4 @@ Accepted papers will be invited to submit an extended version to the [Journal of
 
 ## Submission system
 
-All submissions should be done via [EasyChair DaMaLOS-2021 workshop proceedings](#){:target="_blank"}
+All submissions should be done via [EasyChair DaMaLOS-2022 workshop proceedings](https://easychair.org/conferences/?conf=damalos2022){:target="_blank"}
