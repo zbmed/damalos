@@ -49,7 +49,7 @@ Proceedings of the workshop will be publicly available under [CC-by 4.0 license]
 
 ## Journal submission
 
-Accepted papers will be invited to submit an extended version to the [Journal of Biomedical Semantics (JBMS)](./jbms).
+Accepted workshop papers will be invited to submit an extended version to the [Journal of Biomedical Semantics (JBMS)](./jbms). Please be aware that post-workshop submissions to the journal are expected to be original work showing some improvment/advancement regarding the workshop submission (i.e., you cannot submit the same text as it was accepted to the workshop and the journal version should be different enough).
 
 ## Submission system
 
