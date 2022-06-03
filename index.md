@@ -17,10 +17,10 @@ permalink: /
     <br/>
     <italic>(*) research objects (e.g., data, software, workflows, knowledge graphs)</italic>
     <br/><br/>
-    <strong>Co-located with <a href="https://iswc2022.semanticweb.org/" target="_blank">ISWC</a> on the 23rd or 24th of October TBD </strong>
+    <strong>Co-located with <a href="https://iswc2022.semanticweb.org/" target="_blank">ISWC</a> on the 23rd or 24th of October 2022 TBD </strong>
     <br/><br/>
     email: damalos2022@easychair.org <br/>
-    Follow us on twitter @ZB_MED @UniCologne #damalos2022
+    Follow us on twitter @ZB_MED @UniCologne #DaMaLOS2022
     </td>
   </tr>
 </table>
