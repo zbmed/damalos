@@ -13,7 +13,7 @@ permalink: /
       <img src="./img/damalos-half.jpg" alt="DaMaLOS"/>
     </td>
     <td>
-    <strong>3rd Workshop on Research Objects(*) Metadata and Management for Linked Open Science - DaMaLOS 2022</strong>
+    <strong>3rd Virtual Workshop on Research Objects(*) Metadata and Management for Linked Open Science - DaMaLOS 2022</strong>
     <br/>
     <italic>(*) research objects (e.g., data, software, workflows, knowledge graphs)</italic>
     <br/><br/>
@@ -77,10 +77,6 @@ Experimental research involves various research objects including publications, 
           {
             "@type": "VirtualLocation",
             "url": "https://iswc2022.semanticweb.org"
-          },
-          {
-            "@type": "Place",
-            "name": "Hangzhou, China"
           }
         ],
         "url": "https://iswc2022.semanticweb.org",
