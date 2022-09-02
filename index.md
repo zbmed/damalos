@@ -68,11 +68,12 @@ Experimental research involves various research objects including publications, 
     "superEvent": {
         "@type": "Event",
         "@id": "https://iswc2022.semanticweb.org/",
-        "name": "International Semantic Web Conference ISWC 2021",
+        "name": "International Semantic Web Conference ISWC 2022",
         "description": "The International Semantic Web Conference (ISWC) is the premier venue for presenting fundamental research, innovative technology, and applications concerning semantics, data, and the Web. It is the most important international venue to discuss and present latest advances and applications of the semantic Web, knowledge graphs, linked data, ontologies and artificial intelligence (AI) on the Web.",
         "startDate": "2022-10-23",
         "endDate": "2022-10-27",
-        "eventAttendanceMode": "https://schema.org/MixedEventAttendanceMode",
+        "eventStatus": "https://schema.org/EventMovedOnline",
+        "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
         "location": {
           "@type": "VirtualLocation",
           "url": "https://iswc2022.semanticweb.org"
