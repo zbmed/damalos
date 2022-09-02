@@ -73,12 +73,10 @@ Experimental research involves various research objects including publications, 
         "startDate": "2022-10-23",
         "endDate": "2022-10-27",
         "eventAttendanceMode": "https://schema.org/MixedEventAttendanceMode",
-        "location": [
-          {
-            "@type": "VirtualLocation",
-            "url": "https://iswc2022.semanticweb.org"
-          }
-        ],
+        "location": {
+          "@type": "VirtualLocation",
+          "url": "https://iswc2022.semanticweb.org"
+        },
         "url": "https://iswc2022.semanticweb.org",
         "image": "https://iswc2022.semanticweb.org/wp-content/uploads/2022/01/iswc-logo-light2.png"
     }
