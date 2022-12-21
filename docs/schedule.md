@@ -31,7 +31,7 @@ nav_order: 7
 <tr>
 <td>45'</td>
 <td><strong>Keynote: TBA</strong></td>
-<td><strong><a href="#keynote">Keynote speaker: Prof. Eva María Méndez Rodríguez</a></strong></td>
+<td><strong><a href="#keynote">Keynote speaker</a></strong></td>
 </tr>
 
 <tr>
@@ -97,22 +97,5 @@ nav_order: 7
 
 ## Keynote
 
-### Speaker
-
-<table><tbody>
-<tr>
-<td><img src="../img/caraEva.JPG" alt="Prof. Eva María Méndez Rodríguez"></td>
-<td>
-Prof. Eva María Méndez Rodríguez<br/>
-<a href="https://www.uc3m.es/ss/Satellite/UC3MInstitucional/en/Detalle/Organismo_C/1371296356253/1371206549464/Eva_Maria_Mendez_Rodriguez" target="_blank">Web page</a><br/>
-<a href="https://orcid.org/0000-0002-5337-4722" target="_blank">Publications</a><br/>
-</td>
-</tr>
-</tbody></table>
-
-Eva Méndez belongs to the first generation in Spain that has a diploma, a degree and a PhD in Documentation. Her doctoral thesis obtained the extraordinary doctorate award from UC3M (2002). She is a professor in the UC3M Department of Library and Information Science since March 1997. During the academic year 2005-06 she was a Fulbright-EU research fellow at the Metadata Research Center of the University of North Carolina in Chapel Hill (USA). She has participated in and / or directed various research projects and has advised many others in the areas of metadata, semantic web and web standards, open data, repositories and digital libraries, as well as information policies at various levels. She belongs to several technical and advisory committees: member of the Advisory Board of the Dublin Core Metadata Initiative DCMI (2005-), of the Advisory Board of OpenAire European Open Access infrastructure (2015-), Metadata2020 (2016-) or the Executive Committee of the CRUE University Library Network (REBIUN) (2015-2017). Since May 2016 he is a member of the High Level Advisory Group of the European Commission Open Science Policy Platform, representing YERUN. And in November 2017 it was recognized by the SPARC Europe Open Data Champion.
-
-In the field of UC3M, she has been director of the University Master's Degree in Libraries and Digital Information Services (2009-2012), Assistant Vice-Chancellor for Infrastructure and Environment (2011-2015), Assistant Vice-Chancellor for Strategy and Digital Education (2015-2017). Currently, she is the Deputy Vice Rector for Scientific Policy on this subject at YERUN..
-
-### Talk: TBD
+TBA
 
