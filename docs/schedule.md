@@ -6,11 +6,11 @@ nav_order: 7
 
 # Workshop schedule
 
-**Date**: 23rd or 24th October 2022 TBD
+**Date**: 28th or 29th May 2023 TBD
 
 **Time**: TBD
 
-**Note:** Papers will be Open Access and available at the [PUBLISSO Fachrepositorium DaMaLOS 2022 collection](https://repository.publisso.de/){:target="_blank"}
+**Note:** Papers will be Open Access and available at the [PUBLISSO Fachrepositorium DaMaLOS 2023 collection](https://repository.publisso.de/){:target="_blank"}
 
 ## Schedule
 
@@ -35,12 +35,6 @@ nav_order: 7
 </tr>
 
 <tr>
-<td>10'</td>
-<td>Break</td>
-<td></td>
-</tr>
-
-<tr>
 <td colspan="3" align="center"><strong>First session: Paper presentations - Chair TBA</strong></td>
 </tr>
 
@@ -56,8 +50,8 @@ nav_order: 7
 </tr>
 
 <tr>
-<td>15'</td>
-<td>Break</td>
+<td>20'</td>
+<td>Active break: Share your thoughts</td>
 <td></td>
 </tr>
 
@@ -66,7 +60,7 @@ nav_order: 7
 </tr>
 
 <tr>
-<td>60'</td>
+<td>30'</td>
 <td>Papers presentations
 <br/>
 <span style="font-size: small">
@@ -77,26 +71,27 @@ nav_order: 7
 </tr>
 
 <tr>
+<td colspan="3" align="center"><strong>Third session: Panel discussion</strong></td>
+</tr>
+
+<tr>
+<td>50'</td>
+<td>Panel discussion</td>
+<td>Panelists</td>
+</tr>
+
+<tr>
 <td>10'</td>
-<td>Break</td>
-<td></td>
-</tr>
-
-<tr>
-<td colspan="3" align="center"><strong>Third session: Group activity - Chair TBA</strong></td>
-</tr>
-
-<tr>
-<td>40'</td>
-<td>Activity for all</td>
-<td>All</td>
-</tr>
-
-<tr>
-<td>17:00 - 17:10</td>
 <td>Wrap-up</td>
 <td>Organizers</td>
 </tr>
+
+<tr>
+<td>30'</td>
+<td>Backup in case of need</td>
+<td>All</td>
+</tr>
+
 </tbody>
 </table>
 

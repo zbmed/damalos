@@ -6,13 +6,9 @@ nav_order: 12
 
 # Contact
 
-DaMaLOS 2022
+DaMaLOS 2023
 
-ZB MED Information Centre for Life Sciences
+email: damalos2023@easychair.org
 
-C3RDM University of Cologne
-
-email: damalos2022@easychair.org
-
-## Follow us on twitter
-![twitter](../img/twitter.gif) @ZB_MED @UniCologne #damalos2022
+## Follow us on twitter and Mastodon
+#damalos2023 

@@ -9,7 +9,7 @@ The [Journal of Biomedical Semantics (JBMS)](https://jbiomedsem.biomedcentral.co
 * Infrastructure for biomedical semantics: focusing on semantic resources and repositories, meta-data management and resource description, knowledge representation and semantic frameworks, the Biomedical Semantic Web, and semantic interoperability, and
 * semantic mining, annotation, and analysis: focusing on approaches and applications of semantic resources; and tools for investigation, reasoning, prediction, and discoveries in biomedicine.
 
-JBMS hosts a permanent DaMaLOS collection. This year researchers can decided to directly submit to the journal (if their work is mature enough) or to the workshop (ongoing, early stages, position papers, and so). Accepted workshop papers will be invited to submit an extended version to the DaMaLOS collection at JBMS.
+JBMS hosts a permanent DaMaLOS collection. Accepted workshop papers will be invited to submit an extended version to the DaMaLOS collection at JBMS.
 
 __Important information__
 All accepted workshop papers submitting an extended version to JBMS will still follow a peer-review process. Please be aware the journal version of a workshop published paper should include enough differences to be considered as an original contribution.

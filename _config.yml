@@ -1,14 +1,13 @@
-title: "DaMaLOS 2022 @ ISWC"
+title: "DaMaLOS 2023 @ ESWC"
 remote_theme: pmarsceill/just-the-docs
-logo: ./damalos.gif
+logo: ./damalos2023.gif
 search_enabled: false
 aux_links:
   "Home": "../index"
-footer_content: "email: damalos2022@easychair.org | Follow us on twitter @ZB_MED @UniCologne #damalos2022"
+footer_content: "email: damalos2023@easychair.org | Follow us on Twitter and Mastodon #DaMaLOS2023"
 
 
-description: "DaMaLOS 2022 @ ISWC"
-twitter_username: zb_med
+description: "DaMaLOS 2023 @ ESWC"
 github_username:  ljgarcia
 email: ljgarcia@zbmed.de
 
