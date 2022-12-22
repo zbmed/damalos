@@ -10,10 +10,9 @@ nav_order: 6
 
 ## Guidelines
 
-Camera-ready versions for accepted papers should be submitted via [EasyChair DaMaLOS-2022 workshop proceedings](https://easychair.org/conferences/?conf=damalos2022){:target="_blank"} as an update to the original submission. No authors should be added at this stage.
+Camera-ready versions for accepted papers should be submitted via [EasyChair DaMaLOS-2023 workshop proceedings](https://easychair.org/conferences/?conf=damalos2023){:target="_blank"} as an update to the original submission. No authors should be added at this stage.
 
-* Submission deadline (camera-ready version): TBA - around 15th of October 2022
-* Maximum length: 10 pages for *research* and *reserach object papers* and 6 pages for *short research* and *position* papers using a modified [LNCS templates](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines){:target="_blank"}
+* Submission deadline (camera-ready version): right after the conference
 * Reserved DOI: A DOI will be communicated directly to authors (particularly corresponding authors)
 * Modifications to the LNCS template
   * No header on the first page
@@ -29,7 +28,7 @@ _Header for even pages, alignment to the left_
 
 <table >
   <tr>
-    <td style="text-align:left">#page-number Doe et al. (2022) Title of the article...</td>
+    <td style="text-align:left">#page-number Doe et al. (2023) Title of the article...</td>
   </tr>
 </table>
 
@@ -39,7 +38,7 @@ _Header for odd pages (except the first one), alignment to the right_
 
 <table >
   <tr>
-    <td style="text-align:right">DaMaLOS@ISWC. PUBLISSO-Fachrepositorium. DOI:assigned DOI #page-number</td>
+    <td style="text-align:right">DaMaLOS@ESWC. PUBLISSO-Fachrepositorium. DOI:assigned DOI #page-number</td>
   </tr>
 </table>
 
@@ -53,4 +52,4 @@ Accepted workshop papers will be invited to submit an extended version to the [J
 
 ## Submission system
 
-All submissions should be done via [EasyChair DaMaLOS-2022 workshop proceedings](https://easychair.org/conferences/?conf=damalos2022){:target="_blank"}
+All submissions should be done via [EasyChair DaMaLOS-2023 workshop proceedings](https://easychair.org/conferences/?conf=damalos2023){:target="_blank"}
