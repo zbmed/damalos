@@ -6,9 +6,9 @@ nav_order: 7
 
 # Workshop schedule
 
-**Date**: 28th or 29th May 2023 TBD
+**Date**: 29th May 2023
 
-**Time**: TBD
+**Time**: Morning session (exact times TBA)
 
 **Note:** Papers will be Open Access and available at the [PUBLISSO Fachrepositorium DaMaLOS 2023 collection](https://repository.publisso.de/){:target="_blank"}
 
@@ -31,7 +31,7 @@ nav_order: 7
 <tr>
 <td>45'</td>
 <td><strong>Keynote: TBA</strong></td>
-<td><strong><a href="#keynote">Keynote speaker</a></strong></td>
+<td><strong><a href="#keynote"><a href="https://www.uc3m.es/ss/Satellite/UC3MInstitucional/en/Detalle/Organismo_C/1371296356253/1371206549464/Eva_Maria_Mendez_Rodriguez" target="_blank">Prof. Dr. Eva Mendez</a></strong></td>
 </tr>
 
 <tr>

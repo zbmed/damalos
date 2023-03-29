@@ -12,7 +12,7 @@ nav_order: 6
 
 Camera-ready versions for accepted papers should be submitted via [EasyChair DaMaLOS-2023 workshop proceedings](https://easychair.org/conferences/?conf=damalos2023){:target="_blank"} as an update to the original submission. No authors should be added at this stage.
 
-* Submission deadline (camera-ready version): right after the conference
+* Submission deadline (camera-ready version): 10th May 2023 (publication will be aligned with the actual workshop day)
 * Reserved DOI: A DOI will be communicated directly to authors (particularly corresponding authors)
 * Modifications to the LNCS template
   * No header on the first page
@@ -44,7 +44,7 @@ _Header for odd pages (except the first one), alignment to the right_
 
 ## License
 
-Proceedings of the workshop will be publicly available under [CC-by 4.0 license](https://creativecommons.org/licenses/by/4.0/){:target="_blank"} in [PUBLISSO-Fachrepositorium](https://repository.publisso.de/){:target="_blank"}, indexed by [BASE](https://www.base-search.net/){:target="_blank"}. By submitting you agree to the use of this license for accepted papers. 
+Proceedings of the workshop will be publicly available under [CC-by 4.0 license](https://creativecommons.org/licenses/by/4.0/){:target="_blank"} in [PUBLISSO-Fachrepositorium](https://repository.publisso.de/){:target="_blank"}, indexed by [BASE](https://www.base-search.net/){:target="_blank"}. By submitting you agree to the use of this license for accepted papers. You will be required to submit a signed agreement for publication.
 
 ## Journal submission
 
