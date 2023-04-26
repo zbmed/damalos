@@ -18,7 +18,7 @@ Camera-ready versions for accepted papers should be submitted via [EasyChair DaM
   * No header on the first page
   * Header for even pages (2, 4, and so), aligned to the left (please cut the title as necessary to make it fit in one line, if cut please add ... at the end), see [Table 1](#table-1)
   * Header for odd pages (3, 5, and so), aligned to the right, see [Table 2](#table-2)
-  * For an example, please see the [editorial note from DaMaLOS 2020](https://repository.publisso.de/resource/frl:6424220/data){:target="_blank"}
+  * For example, please see the [editorial note from DaMaLOS 2020](https://repository.publisso.de/resource/frl:6424220/data){:target="_blank"}
 
 **Note**: You will need to modify the template yourself (e.g., increase margins for headers) so the headers fit.
 
