@@ -55,7 +55,7 @@ nav_order: 7
 <td>09:25 - 09:35</td>
 <td>10'</td>
 <td>Use cases and benefits of persistent identifiers for dataset elements</td>
-<td>Presenter</td>
+<td>Janete Saldanha Bach (GESIS – Leibniz Institute for the Social Sciences)</td>
 </tr>
 
 <tr>
