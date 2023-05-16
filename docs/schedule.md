@@ -34,7 +34,9 @@ nav_order: 7
 <td>08:35 - 09:15</td>
 <td>40'</td>
 <td><strong>Keynote: TBA</strong></td>
-<td><strong><a href="#keynote"><a href="https://www.uc3m.es/ss/Satellite/UC3MInstitucional/en/Detalle/Organismo_C/1371296356253/1371206549464/Eva_Maria_Mendez_Rodriguez" target="_blank">Prof. Dr. Eva Mendez (Universidad Carlos III Madrid)</a></strong></td>
+<td>
+<strong><a href="https://researchportal.uc3m.es/display/inv16229" target="_blank">Prof. Dr. Eva Mendez (Universidad Carlos III Madrid)</a></strong>
+</td>
 </tr>
 
 <tr>
