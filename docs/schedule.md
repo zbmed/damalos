@@ -81,7 +81,7 @@ nav_order: 7
 <td>10:00 - 10:05</td>
 <td>5'</td>
 <td>Connecting data repositories and DMP tools using maDMPs</td>
-<td>Presenter</td>
+<td>Tomasz Miksa (TU Wien & SBA Research)</td>
 </tr>
 
 <tr>
@@ -134,7 +134,7 @@ nav_order: 7
 <td>11:20 - 11:30</td>
 <td>10'</td>
 <td>About versioning ontologies or any digital object with clear semantics</td>
-<td>María Poveda-Villalón (UPM)</td>
+<td>María Poveda-Villalón (Universidad Politécnica de Madrid)</td>
 </tr>
 
 <tr>
@@ -153,28 +153,28 @@ nav_order: 7
 <td>11:45 - 11:55</td>
 <td>10'</td>
 <td>FAIR Research Object Assessment: A landscape analysis</td>
-<td>Presenter</td>
+<td>Esteban Gonzalez (Universidad Politécnica de Madrid)</td>
 </tr>
 
 <tr>
 <td>11:55 - 12:05</td>
 <td>10'</td>
 <td>FAIR Data Management Workflow for MRI Data</td>
-<td>Presenter</td>
+<td>Nicolas Blumenröhr (Karlsruhe Institute of Technology)</td>
 </tr>
 
 <tr>
 <td>12:05 - 12:15</td>
 <td>10'</td>
 <td>An Improved Questionnaire for FAIRness Characterization</td>
-<td>Presenter</td>
+<td>Leonardo Guerreiro Azevedo (IBM Research)</td>
 </tr>
 
 <tr>
 <td>12:15 - 12:25</td>
 <td>10'</td>
 <td>Enhancing Reproducibility and Trustability in Intelligent Asset Management Systems for the Railway Domain</td>
-<td>Presenter</td>
+<td>Mario Scrocca (Cefriel)</td>
 </tr>
 
 <tr>
