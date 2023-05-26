@@ -146,7 +146,7 @@ nav_order: 7
 
 <tr>
 <td>11:45 - 12:40</td>
-<td colspan="3" align="center"><strong>Third session: FAIR, FAIRness and beyond - Chair Leyla Jael Castro (GESIS)</strong></td>
+<td colspan="3" align="center"><strong>Third session: FAIR, FAIRness and beyond - Chair Sonja Schimmler (FOKUS)</strong></td>
 </tr>
 
 <tr>
