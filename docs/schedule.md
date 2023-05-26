@@ -127,7 +127,7 @@ nav_order: 7
 <td>11:10 - 11:20</td>
 <td>10'</td>
 <td>Making Metadata FAIR Using Large Language Models</td>
-<td>Presenter</td>
+<td>Sowmya S Sundaram (Stanford University)</td>
 </tr>
 
 <tr>
