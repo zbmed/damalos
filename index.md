@@ -17,7 +17,7 @@ permalink: /
     <br/>
     <italic>(*) research objects (e.g., data, software, workflows, knowledge graphs, ro-crates)</italic>
     <br/><br/>
-    <strong>Co-located with <a href="https://2023.eswc-conferences.org/" target="_blank">ESWC</a> on the 28th or 29th of May 2023 TBD </strong>
+    <strong>Co-located with <a href="https://2023.eswc-conferences.org/" target="_blank">ESWC</a> on 29th of May 2023 at 8:30 AM (local time Greece UTC+3)</strong>
     <br/><br/>
     email: damalos2023@easychair.org <br/>
     Follow us on Twitter and Mastodon #DaMaLOS2023
