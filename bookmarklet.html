@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ZB MED EZproxy Browser Bookmarklet</title>
+</head>
+<body>
+
+<h1>Option 1: Prefix URL</h1>
+<ul>
+  <li>
+    If you have the publisher's URL: <br/>
+    Add the proxy prefix http://livivo.idm.oclc.org/login?url= before the publisher provided URL. <br/>
+    <strong>Examples</strong><br/>
+    http://livivo.idm.oclc.org/login?url=http://journals.sagepub.com/doi/abs/10.1177/0956797614524581 -- <a href="http://livivo.idm.oclc.org/login?url=http://journals.sagepub.com/doi/abs/10.1177/0956797614524581" target="blank">Try it out</a><br/>
+    http://livivo.idm.oclc.org/login?url=http://www.jstor.org/stable/41302872 -- <a href="http://livivo.idm.oclc.org/login?url=http://www.jstor.org/stable/41302872" target="blank">Try it out</a>
+  </li>
+  <li>
+    If you have the DOI:<br/>
+    Add the proxy prefix http://livivo.idm.oclc.org/login?url= before the DOI URL. <br/>
+    <strong>Examples</strong><br/>
+    If the DOI is 10.1080/0161956X.2011.579001 your URL will look like<br/>
+    http://livivo.idm.oclc.org/login?url=http://dx.doi.org/10.1080/0161956X.2011.579001 -- <a href="http://livivo.idm.oclc.org/login?url=http://dx.doi.org/10.1080/0161956X.2011.579001" target="blank">Try it out</a>
+  </li>
+</ul>
+
+<h1>Option 2: Installing the bookmarklet</h1>
+<p>Chrome
+<ul>
+  <li>From the View menu, choose "Always Show Bookmarks Bar"</li>
+  <li>Drag this block <a style="color:orange!important;background-color:grey;"  href="javascript:void(location.href=%22http://livivo.idm.oclc.org/login?url=%22+location.href)">ZB MED EZproxy</a> to your bookmarks toolbar.</li>
+</ul>  
+</p>
+
+</body>
+</html>
