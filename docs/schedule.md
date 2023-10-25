@@ -10,7 +10,7 @@ nav_order: 7
 
 **Time**: Morning session 08:30 am to 12:45 pm (EEST, i.e., UTC+3)
 
-**Note:** Papers will be Open Access and available at the [PUBLISSO Fachrepositorium DaMaLOS 2023 collection](https://repository.publisso.de/){:target="_blank"}
+**Note:** Papers are Open Access and available at the [PUBLISSO Fachrepositorium DaMaLOS 2023 collection](https://repository.publisso.de/resource?query[0][term]=%22https%3A%2F%2Fd-nb.info%2Fgnd%2F1290580073%22){:target="_blank"}
 
 ## Schedule
 
