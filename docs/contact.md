@@ -6,9 +6,9 @@ nav_order: 12
 
 # Contact
 
-DaMaLOS 2023
+DaMaLOS 2024
 
-email: damalos2023@easychair.org
+email: damalos2024@easychair.org
 
-## Follow us on twitter and Mastodon
-#damalos2023 
+## Follow us on Fostodon/Mastodon and Twitter
+#damalos2024

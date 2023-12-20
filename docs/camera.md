@@ -10,9 +10,9 @@ nav_order: 6
 
 ## Guidelines
 
-Camera-ready versions for accepted papers should be submitted via [EasyChair DaMaLOS-2023 workshop proceedings](https://easychair.org/conferences/?conf=damalos2023){:target="_blank"} as an update to the original submission. No authors should be added at this stage.
+Camera-ready versions for accepted papers should be submitted via [EasyChair DaMaLOS-2024 workshop proceedings](https://easychair.org/conferences/?conf=damalos2024){:target="_blank"} as an update to the original submission. No authors should be added at this stage.
 
-* Submission deadline (camera-ready version): 10th May 2023 (publication will be aligned with the actual workshop day)
+* Submission deadline (camera-ready version): 18th April 2024 (publication will be aligned with the actual workshop day)
 * Reserved DOI: A DOI will be communicated directly to authors (particularly corresponding authors)
 * Modifications to the LNCS template
   * No header on the first page
@@ -28,7 +28,7 @@ _Header for even pages, alignment to the left_
 
 <table >
   <tr>
-    <td style="text-align:left">#page-number Doe et al. (2023) Title of the article...</td>
+    <td style="text-align:left">#page-number Doe et al. (2024) Title of the article...</td>
   </tr>
 </table>
 
@@ -52,4 +52,4 @@ Accepted workshop papers will be invited to submit an extended version to the [J
 
 ## Submission system
 
-All submissions should be done via [EasyChair DaMaLOS-2023 workshop proceedings](https://easychair.org/conferences/?conf=damalos2023){:target="_blank"}
+All submissions should be done via [EasyChair DaMaLOS-2024 workshop proceedings](https://easychair.org/conferences/?conf=damalos2024){:target="_blank"}

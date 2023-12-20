@@ -6,15 +6,15 @@ nav_order: 5
 
 # Submission process
 
-This year DaMaLOS welcomes submissions in the form of long (up to 12 pages) and short (up to 6 pages) research papers, research objects (up to 6 pages), position papers (up to 6 pages), demos (up to 3 pages), posters (up to 3 pages).
+This year DaMaLOS welcomes submissions in the form of long (up to 12 pages) and short (up to 6 pages) research papers, research objects (up to 3 pages), position papers (up to 6 pages), demos (up to 3 pages), posters (up to 3 pages).
 
-Accepted papers will go to the proceedings of the workshop and will be publicly available under CC-by 4.0 license at [PUBLISSO FRL](https://repository.publisso.de/){:target="_blank"} indexed by [LIVIVO](https://www.livivo.de/) and [DBLP](https://dblp.org/search?q=damalos). PUBLISSO mints DOIs and provides a fast publication process that will allow us to have the proceedings ready right after the conference, including slides. Accepted workshop papers will be later invited to submit an extended and improved version to the Journal of Biomedical Semantics ([JBMS](./jbms)).
+Accepted papers will go to the proceedings of the workshop and will be publicly available under CC-by 4.0 license at [PUBLISSO FRL](https://repository.publisso.de/){:target="_blank"} indexed by [LIVIVO](https://www.livivo.de/) and [DBLP](https://dblp.org/search?q=damalos). PUBLISSO mints DOIs and provides a fast publication process that will allow us to have the proceedings ready right after the conference, including slides. Accepted workshop papers aligned with Life Sciences or domain-agnostic will be later invited to submit an extended and improved version to the Journal of Biomedical Semantics ([JBMS](./jbms)).
 
 ### Types of submissions
 * Full research papers (up to 12 pages): Presenting novel scientific research
 * Short research papers (up to 6 pages): Presenting research results at early stages
-* Research objects (up to 6 pages): Describing datasets, software, workflows, training materials together with their metadata
 * Position papers (up to 6 pages): Introducing positions, ideas, opinions and discussions around a topic
+* Research objects (up to 3 pages): Describing datasets, software, workflows, training materials together with their metadata
 * Demos (up to 3 pages): Presenting tools (software, workflows and so) from a practical perspective
 * Posters (up to 3 pages): Presenting works in a graphical display
 
@@ -23,7 +23,7 @@ Accepted papers will go to the proceedings of the workshop and will be publicly 
 All submissions must be original and not simultaneously submitted to another journal or conference/workshop. All submissions must be in English. Proceedings of the workshop will be publicly available under [CC-by 4.0 license](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}; by submitting you agree to the use of this license for accepted papers. Papers should be formatted according to [LNCS templates](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines){:target="_blank"}
 
 ### Submission system
-All workshop submissions should be done via [EasyChair DaMaLOS-2023 workshop](https://easychair.org/conferences/?conf=damalos2023){:target="_blank"}
+All workshop submissions should be done via [EasyChair DaMaLOS-2024 workshop](https://easychair.org/conferences/?conf=damalos2024){:target="_blank"}
 
 ## Topics
  DaMaLOS targets the following (and similar) topics:

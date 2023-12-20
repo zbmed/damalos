@@ -1,11 +1,11 @@
 ---
 layout: default
-title: DaMaLOS 2023
+title: DaMaLOS 2024
 nav_order: 1
 permalink: /
 ---
 
-# DaMaLOS 2023 @ ESWC
+# DaMaLOS 2024 @ ESWC
 
 <table>
   <tr>
@@ -13,14 +13,14 @@ permalink: /
       <img src="./img/damalos-half.jpg" alt="DaMaLOS"/>
     </td>
     <td>
-    <strong>3rd Workshop on Metadata and Research (objects) Management for Linked Open Science - DaMaLOS 2023</strong>
+    <strong>4th Workshop on Metadata and Research (objects) Management for Linked Open Science - DaMaLOS 2024</strong>
     <br/>
     <italic>(*) research objects (e.g., data, software, workflows, knowledge graphs, ro-crates)</italic>
     <br/><br/>
-    <strong>Co-located with <a href="https://2023.eswc-conferences.org/" target="_blank">ESWC</a> on 29th of May 2023 at 8:30 AM (local time Greece UTC+3)</strong>
+    <strong>Co-located with <a href="https://2024.eswc-conferences.org/" target="_blank">ESWC</a> on 26th or 27th of May 2024 TBC (local time Greece UTC+3)</strong>
     <br/><br/>
-    email: damalos2023@easychair.org <br/>
-    Follow us on Twitter and Mastodon #DaMaLOS2023
+    email: damalos2024@easychair.org <br/>
+    Follow us on Fostodon/Mastodon and Twitter #DaMaLOS2024
     </td>
   </tr>
 </table>
@@ -36,11 +36,11 @@ Scientific research involves various digital objects including publications, sof
     "@context": "https://schema.org",
     "@id": "https://zbmed.github.io/damalos",
     "@type": "Event",
-    "name": "DaMaLOS 2023",
-    "description": "3rd Workshop on Metadata and Research (objects) Management for Linked Open Science - DaMaLOS 2023",
+    "name": "DaMaLOS 2024",
+    "description": "4th Workshop on Metadata and Research (objects) Management for Linked Open Science - DaMaLOS 2024",
     "image": "https://zbmed.github.io/damalos/img/damalos.jpg",
-    "startDate": "2023-05-28",
-    "endDate": "2023-05-29",
+    "startDate": "2024-05-26",
+    "endDate": "2024-05-27",
     "eventStatus": "https://schema.org/EventScheduled",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "keywords": "Research data management, research objects, research environments, Open Science, Linked Open Data, FAIRness, FAIRification, scientometrics, metadata",
@@ -80,20 +80,6 @@ Scientific research involves various digital objects including publications, sof
       }, 
       {
         "@type": "Person",
-        "@id": "https://orcid.org/0000-0002-0121-9261", 
-        "url": "https://orcid.org/0000-0002-0121-9261",
-        "name": "Jens Dierkes",
-        "memberOf": 
-          {
-            "@type": "Organization",
-            "@id": "https://fdm.uni-koeln.de/", 
-            "url": "https://fdm.uni-koeln.de/",
-            "name": "Cologne Competence Center for Research Data Management (C3RDM)",
-            "logo": "https://fdm.uni-koeln.de/sites/FDM-UzK/Logos/SiteLogo.png"
-          }
-      }, 
-      {
-        "@type": "Person",
         "@id": "https://orcid.org/0000-0002-8786-7250", 
         "url": "https://orcid.org/0000-0002-8786-7250",
         "name": "Sonja Schimmler",
@@ -125,11 +111,11 @@ Scientific research involves various digital objects including publications, sof
     "about": "Scientific research involves various digital objects including publications, software, data, workflows and tutorials, all key to FAIRness, reproducibility and transparency. The research lifecycle, from questions and hypotheses to results and conclusions, requires data production, collection, and transformation, a process commonly supported by software and workflows. For this cycle to prosper, we require Research Data and Software Management Plans (DMPs and SMPs), Research Objects packing things together, and metadata supporting the FAIR (data) principles and its extensions (e.g., software, workflows) as well as coverage for reproducibility, transparency, trustability, explainability, i.e., *ilities. Furthermore, despite playing an important role, data on its own is not enough to establish Linked Open Science, i.e., Open Science plus Linked Open Data (LOD). LOD principles, aka LOD 5 stars, follow objectives overlapping with FAIR and Open Science (e.g., LOD includes “openness” and usage of “non-proprietary open formats”). In DaMaLOS we will explore requirements for research digital objects and their corresponding management plans to effectively instantiate an integrated layer supporting Linked Open Science. DaMaLOS welcomes contributions aligned to the following topics: machine-actionable DMPs and SMPs; machine/deep learning approaches around rich metadata; FAIRification; FAIR by design; FAIR tooling; recognition, publication and citation for data, software and other research digital objects, and scientometrics beyond the scholarly publication (i.e., combining the different digital objects playing a role in the research cycle).", 
     "superEvent": {
         "@type": "Event",
-        "@id": "https://2023.eswc-conferences.org/",
-        "name": "Extended Semantic Web Conference ESWC 2023",
-        "description": "The European Semantic Web Conference is a major venue for discussing the latest scientific results and technology innovations around semantic technologies. Building on its past success, ESWC is seeking to broaden its focus to span other relevant related research areas in which Web semantics plays an important role. The goal of the Semantic Web is to create a Web of knowledge and services in which the semantics of content is made explicit and content is linked to both other content and services allowing novel applications to combine content from heterogeneous sites in unforeseen ways and support enhanced matching between users needs and content. This network of knowledge-based functionality will weave together a large network of human knowledge, and make this knowledge machine-processable to support intelligent behaviour by machines. Creating such an interlinked Web of knowledge which spans unstructured text, structured data  as well as multimedia content and services requires the collaboration of many disciplines, including but not limited to: Artificial Intelligence, Natural Language Processing, Databases and Information Systems, Information Retrieval, Machine Learning, Multimedia, Distributed Systems, Social Networks, Web Engineering, and Web Science. These complementarities are reflected in the outline of the technical program of the ESWC 2023. ESWC 2023 will present the latest results in research, technologies and applications in its field. Besides the technical program organized over numerous tracks, the conference will feature a workshop and tutorial program, system descriptions and demos, a posters exhibition and a doctoral symposium.",
-        "startDate": "2023-05-28",
-        "endDate": "2023-06-01",
+        "@id": "https://2024.eswc-conferences.org/",
+        "name": "Extended Semantic Web Conference ESWC 2024",
+        "description": "The European Semantic Web Conference is a major venue for discussing the latest scientific results and technology innovations around semantic technologies. Building on its past success, ESWC is seeking to broaden its focus to span other relevant related research areas in which Web semantics plays an important role. The goal of the Semantic Web is to create a Web of knowledge and services in which the semantics of content is made explicit and content is linked to both other content and services allowing novel applications to combine content from heterogeneous sites in unforeseen ways and support enhanced matching between users needs and content. This network of knowledge-based functionality will weave together a large network of human knowledge, and make this knowledge machine-processable to support intelligent behaviour by machines. Creating such an interlinked Web of knowledge which spans unstructured text, structured data  as well as multimedia content and services requires the collaboration of many disciplines, including but not limited to: Artificial Intelligence, Natural Language Processing, Databases and Information Systems, Information Retrieval, Machine Learning, Multimedia, Distributed Systems, Social Networks, Web Engineering, and Web Science. These complementarities are reflected in the outline of the technical program of the ESWC 2024. ESWC 2024 will present the latest results in research, technologies and applications in its field. Besides the technical program organized over numerous tracks, the conference will feature a workshop and tutorial program, system descriptions and demos, a posters exhibition and a doctoral symposium.",
+        "startDate": "2024-05-26",
+        "endDate": "2024-05-30",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "keywords": "All areas dealing with different aspects of semantics on the Web",
@@ -137,8 +123,8 @@ Scientific research involves various digital objects including publications, sof
           "@type": "Place",
           "name": "Hersonissos, Greece"
         },
-        "url": "https://2023.eswc-conferences.org/",
-        "image": "https://2023.eswc-conferences.org/wp-content/uploads/2022/10/cropped-logo2023.png"
+        "url": "https://2024.eswc-conferences.org/",
+        "image": "https://2024.eswc-conferences.org/wp-content/uploads/2024/08/cropped-ESWC24-logo.png"
     }
   }
 ]
