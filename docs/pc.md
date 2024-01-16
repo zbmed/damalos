@@ -14,6 +14,7 @@ nav_order: 9
 * Carole Goble (University of Manchester, UK)
 * Daniel S. Katz (University of Illinois, USA)
 * José Labra (Universidad de Oviedo, Spain)
+* Carlos Martinez-Ortiz (eScience Center, the Netherlands)
 * Elli Papadopoulou (ATHENA Research Center and OpenAIRE, Greece)
 * Cassia Trojahn (Institut de Recherche en Informatique de Toulouse (IRIT), France)
 * Mingfang Wu (Australian Research Data Commons, Australia)
