@@ -17,6 +17,7 @@ nav_order: 9
 * José Labra (Universidad de Oviedo, Spain)
 * Carlos Martinez-Ortiz (eScience Center, the Netherlands)
 * Elli Papadopoulou (ATHENA Research Center and OpenAIRE, Greece)
+* Stian Soiland-Reyes (University of Manchester, UK)
 * Cassia Trojahn (Institut de Recherche en Informatique de Toulouse (IRIT), France)
 * Claus Weiland (Senckenberg – Leibniz Institution for Biodiversity and Earth System Research, Germany)
 * Mingfang Wu (Australian Research Data Commons, Australia)
