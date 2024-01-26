@@ -6,6 +6,7 @@ nav_order: 9
 
 # Program committee
 
+* Muhammad Ahtisham Aslam (Fraunhofer FOKUS, Germany)
 * Erick Antezana (Norwegian University of Science and Technology, Norway)
 * Alessia Bardi (Istituto di Scienza e Tecnologie dell’Informazione “A. Faedo”, CNR, Italy)
 * Robert Downs (The Center for International Earth Science Information Network (CIESIN), USA)
