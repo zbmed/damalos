@@ -35,7 +35,7 @@ nav_order: 7
 <td>30' + 10'</td>
 <td><strong>Keynote</strong></td>
 <td>
-<strong></strong>
+<strong><a href="https://www.inab.certh.gr/contact/personnel/researchers/10-fotis-psomopoulos" target="_blank">Fotis Psomopoulos</a> INAB/CERTH</strong>
 </td>
 </tr>
 
@@ -86,5 +86,9 @@ nav_order: 7
 
 </tbody>
 </table>
+
+## Keynote
+
+This year DaMaLOS will have Fotis Psomopoulos as invited keynote speaker. Fotis is a Senior researcher at INAB|CERTH, with active involvement around FAIR and Open Research Software, both in the context of ELIXIR as well as in RDA. He is also active around training, contributing in efforts around FAIR Training, and a member of global initiatives such as GOBLET and the Carpentries. He currently is involved in initiatives around FAIR for software, software management plans, and machine learning models.
 
 ## Book of abstracts TBC
