@@ -6,16 +6,17 @@ nav_order: 7
 
 # Workshop schedule
 
-**Date**: 29th May 2024
+**Tentative Date**: 26th May 2024 TBC
 
-**Time**: Morning session 08:30 am to 12:45 pm (EEST, i.e., UTC+3)
+**Tentative Time**: Morning session 09:00 am to 12:30 pm local time (EEST, i.e., UTC+3) TBC
 
-**Note:** Papers will be Open Access and available at the PUBLISSO Fachrepositorium DaMaLOS 2024 collection
+**Proceedings**: Papers will be Open Access and available at the PUBLISSO Fachrepositorium DaMaLOS 2024 collection
 
-## Schedule TBC
+## Schedule
 
 <table>
 <tbody>
+
 <tr align="center">
 <th>Time (EEST)</th>
 <th>Duration</th>
@@ -110,6 +111,7 @@ nav_order: 7
 
 </tbody>
 </table>
+</br>
 
 ## Keynote
 
