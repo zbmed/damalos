@@ -153,15 +153,13 @@ sciences, thus increasing the general exchange of knowledge.
 
 **Abstract**: Design and management of a large number of data processing pipelines is a challenging task. Analogous to DevOps, the term DataOps was coined to capture all the practices, processes and technologies related to the management of the life cycle of data artifacts, including the tracking of provenance. The solution space has been constantly increasing with novel approaches and tools becoming available, however with – for instance – more than 100 workflow engines available it is by far no longer feasible to assess them all. Semantic Web technology features many aspects relevant to DataOps, such as interlinkability of resources, DCAT for building decentral data catalogs, PROV-O for provenance descriptions, VoID for describing statistics about the used classes and properties. Yet, there are only few approaches that establish a coherent and holistic connection between these elements. In this work, we perform an in-depth analysis of the Apache Maven build system and its surrounding ecosystem for how they can be leveraged for automated data processing, publishing and RDF metadata generation with provenance tracking. We present three novel maven plugins for SPARQL and RML execution, the creation of an RDF database file, and uploading artifacts to a CKAN instance. Finally, we present a prototype architecture where a Maven deployment of a geographic RDF dataset results in the automated generation of DCAT, PROV-O and VoID metadata such that datasets can be browsed on a map and filtered e.g. by the used classes and properties. All our resources are freely available as Open Source.
 
-
-# Towards FAIR Data in Energy System Research: Industry and Academia Perspectives
+### Towards FAIR Data in Energy System Research: Industry and Academia Perspectives
 
 **Authors**: Wein, Amanda (0009−0009−2960−3474); Bechara, Mazen (0009−0009−7554−3935); Rohde, Philipp D. (0000−0002−9835−4354); Vidal, Maria-Esther (0000−0003−1160−8727)
 
 **Abstract**: FAIR data principles are important in the energy sector for enabling comparisons of data sets and ensuring that interested parties in this and other sectors can fully understand energy system data. However, these parties may have different priorities and requirements for the management of these data. This paper presents the results of a survey of research data management requirements in the field of energy systems research, conducted to better understand which requirements are considered most important by energy researchers and industry professionals. When presented with ten requirements, respondents ranked data quality and security as most important and metadata  management as least important. The paper then outlines some tools that can help address data management requirements in the energy domain: the Open Energy Ontology, the NFDI4Energy platform, and the Leibniz Data Manager, a research data management repository that resorts to Semantic Web technologies to empower FAIR principles.
 
-
-# Towards Flexible Assessment of Metadata Quality in Research Meta Portals
+### Towards Flexible Assessment of Metadata Quality in Research Meta Portals
 
 **Authors**: Wentzel, Bianca (0000−0002−9218−5676); Peters, Michael (0009−0005−4669−4508); Chen, Zongxiong (0000−0003−2452−0572); Schimmler, Sonja (0000−0002−8786−7250)
 
