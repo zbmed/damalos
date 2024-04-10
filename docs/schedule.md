@@ -112,11 +112,11 @@ nav_order: 7
 </tbody>
 </table>
 
-## _
-
 ## Keynote
 
+<p>
 This year DaMaLOS will have Fotis Psomopoulos as invited keynote speaker. Fotis is a Senior researcher at INAB|CERTH, with active involvement around FAIR and Open Research Software, both in the context of ELIXIR as well as in RDA. He is also active around training, contributing in efforts around FAIR Training, and a member of global initiatives such as GOBLET and the Carpentries. He currently is involved in initiatives around FAIR for software, software management plans, and machine learning models.
+</p>
 
 ## Book of abstracts
 
