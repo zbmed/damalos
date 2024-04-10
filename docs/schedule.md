@@ -111,7 +111,7 @@ nav_order: 7
 
 </tbody>
 </table>
-</br>
+<br/>
 
 ## Keynote
 
