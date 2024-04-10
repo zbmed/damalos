@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact
+title: NFDI4DS
 nav_order: 12
 ---
 
