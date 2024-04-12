@@ -48,7 +48,7 @@ nav_order: 7
 <td>10:00 - 10:20</td>
 <td>10' + 5' Q&A</td>
 <td>What’s Cooking in the NFDI4Culture Kitchen? A KG-based Research Data Integration Workflow</td>
-<td>Presenter</td>
+<td>Oleksandra Bruns, Information Service Engineering, Karlsruhe Institute of Technologie</td>
 </tr>
 
 <tr>
@@ -115,14 +115,14 @@ nav_order: 7
 ## Keynote
 
 <p>
-This year DaMaLOS will have Fotis Psomopoulos as invited keynote speaker. Fotis is a Senior researcher at INAB|CERTH, with active involvement around FAIR and Open Research Software, both in the context of ELIXIR as well as in RDA. He is also active around training, contributing in efforts around FAIR Training, and a member of global initiatives such as GOBLET and the Carpentries. He currently is involved in initiatives around FAIR for software, software management plans, and machine learning models.
+This year DaMaLOS will have Dr. Fotis Psomopoulos as invited keynote speaker. Dr Fotis Psomopoulos is a Senior Researcher at the Institute of Applied Biosciences, at the Centre for Research and Technology Hellas, in Thessaloniki Greece. His research interests lie at the intersection of Bioinformatics and Machine Learning, primarily working on the design and implementation of novel algorithms for knowledge extraction from large datasets in Life Sciences. As such, he is co-leading the ELIXIR Machine Learning Focus Group which produced the DOME recommendations, and is a member of the CLAIRE network. Moreover, he is a proponent of Open and FAIR Research Software, co-leading relevant activities under ELIXIR and RDA, as well as coordinating EOSC EVERSE, an EU project on research software quality. Finally, in addition to his research activities, he is active in training efforts; notably he is a member of the ELIXIR Training Platform Executive Committee, a member of the EOSC-A Task Force on Research careers, recognition and credit, and a co-author of the Open Science Training Handbook.
 </p>
 
 ## Book of abstracts
 
 ### What’s Cooking in the NFDI4Culture Kitchen? A KG-based Research Data Integration Workflow
 
-**Authors**: Bruns, Oleksandra; Tietz, Tabea; Söhn, Linnaea; Steller, Jonatan Jalle; Ondraszek, Sarah Rebecca; Poshumus, Etienne; Schrade, Torsten, Sack, Harald
+**Authors**: Bruns, Oleksandra (0000-0002-8501-6700); Tietz, Tabea (0000-0002-1648-1684); Söhn, Linnaea (0000-0001-8341-1187); Steller, Jonatan Jalle (0000-0002-5101-5275); Ondraszek, Sarah Rebecca (0009-0003-7945-6704); Poshumus, Etienne (0000-0002-0006-7542); Schrade, Torsten (0000-0002-0953-2818); Sack, Harald (0000-0001-7069-9804)
 
 **Abstract**: The National Research Data Infrastructure (NFDI) aims to provide a standardized and sustainable research data infrastructure across diverse domains, facilitating efficient research and scientific advancement. Despite encompassing a wide range of scientific disciplines, NFDI consortia share a foundation of common goals and concepts, emphasizing collaboration and data interoperability. Leveraging interconnected data offers new research opportunities, but requires availability in Linked Open Data (LOD) format. On example of NFDI4Culture, this paper addresses challenges of heterogeneous and isolated cultural heritage research data, and discusses efforts and results towards the creation of NFDI4Culture-KG, including the establishment of a research data index, implementing an ETL (Extract-Transform-Load) environment, and engineering lightweight semantic representations.
 
