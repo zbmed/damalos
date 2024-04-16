@@ -34,7 +34,7 @@ nav_order: 7
 <tr>
 <td>09:05 - 10:00</td>
 <td>40' + 15' Q&A</td>
-<td><strong>Keynote</strong></td>
+<td><strong>Keynote: FAIR for Machine Learning; Building on the Lessons from FAIR Software</strong></td>
 <td>
 <strong><a href="https://www.inab.certh.gr/contact/personnel/researchers/10-fotis-psomopoulos" target="_blank">Fotis Psomopoulos</a> INAB/CERTH</strong>
 </td>
@@ -55,7 +55,7 @@ nav_order: 7
 <td>10:20 - 10:30</td>
 <td>5' + 5' Q&A</td>
 <td>NFDI4Cat - Utilizing Semantic Web Technologies for a Data Infrastructure in Catalysis-Related Sciences</td>
-<td>Presenter</td>
+<td>Bianca Wentzel, Fraunhofer FOKUS – Institute for Open Communication Systems,</td>
 </tr>
 
 <tr>
@@ -71,21 +71,21 @@ nav_order: 7
 <td>11:00 - 11:20</td>
 <td>15' + 5' Q&A</td>
 <td>An Appraisal of Automated Tools for FAIRness Evaluation</td>
-<td>Presenter</td>
+<td>Leonardo Guerreiro Azevedo <lga@br.ibm.com>, IBM Research - Brazil</td>
 </tr>
 
 <tr>
 <td>11:20 - 11:35</td>
 <td>10' + 5' Q&A</td>
 <td>Advancements and challenges in assessing FAIR Principles: a hybrid approach through manual and automated assessments</td>
-<td>Presenter</td>
+<td>Janete Saldanha Bach, GESIS – Leibniz Institute for the Social Sciences,</td>
 </tr>
 
 <tr>
 <td>11:35 - 11:55</td>
 <td>15' + 5' Q&A</td>
 <td>FAIR Data Publishing with Apache Maven</td>
-<td>Presenter</td>
+<td>Claus Stadler, Institute for Applied Informatics</td>
 </tr>
 
 <tr>
@@ -99,7 +99,7 @@ nav_order: 7
 <td>12:10 - 12:25</td>
 <td>10' + 5' Q&A</td>
 <td>Towards Flexible Assessment of Metadata Quality in Research Meta Portals</td>
-<td>Presenter</td>
+<td>Bianca Wentzel, Fraunhofer FOKUS – Institute for Open Communication Systems,</td>
 </tr>
 
 <tr>
@@ -117,6 +117,10 @@ nav_order: 7
 <p>
 This year DaMaLOS will have Dr. Fotis Psomopoulos as invited keynote speaker. Dr Fotis Psomopoulos is a Senior Researcher at the Institute of Applied Biosciences, at the Centre for Research and Technology Hellas, in Thessaloniki Greece. His research interests lie at the intersection of Bioinformatics and Machine Learning, primarily working on the design and implementation of novel algorithms for knowledge extraction from large datasets in Life Sciences. As such, he is co-leading the ELIXIR Machine Learning Focus Group which produced the DOME recommendations, and is a member of the CLAIRE network. Moreover, he is a proponent of Open and FAIR Research Software, co-leading relevant activities under ELIXIR and RDA, as well as coordinating EOSC EVERSE, an EU project on research software quality. Finally, in addition to his research activities, he is active in training efforts; notably he is a member of the ELIXIR Training Platform Executive Committee, a member of the EOSC-A Task Force on Research careers, recognition and credit, and a co-author of the Open Science Training Handbook.
 </p>
+
+**Title**: FAIR for Machine Learning; Building on the Lessons from FAIR Software
+
+**Abstract**: Ensuring that data are FAIR is nowadays a clear expectation across all science domains, as a result of many years of global efforts. Research software, has only just started to receive the same level of attention in recent years, with targeted actions towards the definition of the FAIR principles as applied to research software, as well as concerted efforts around reproducibility, quality, and sustainability. Given the rapid rise of ML as a key technology across all science domains, it is important to build on our collective experience, and already start addressing the challenges ahead of us, towards making ML FAIR. 
 
 ## Book of abstracts
 
