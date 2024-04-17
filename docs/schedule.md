@@ -92,7 +92,7 @@ nav_order: 7
 <td>11:55 - 12:10</td>
 <td>10' + 5' Q&A</td>
 <td>Towards FAIR Data in Energy System Research: Industry and Academia Perspectives</td>
-<td>Presenter</td>
+<td>Amanda Wein, OFFIS e.V. and Carl von Ossietzky Universität Oldenburg</td>
 </tr>
 
 <tr>
