@@ -71,7 +71,7 @@ nav_order: 7
 <td>11:00 - 11:20</td>
 <td>15' + 5' Q&A</td>
 <td>An Appraisal of Automated Tools for FAIRness Evaluation</td>
-<td>Leonardo Guerreiro Azevedo <lga@br.ibm.com>, IBM Research - Brazil</td>
+<td>Leonardo Guerreiro Azevedo, IBM Research - Brazil</td>
 </tr>
 
 <tr>
