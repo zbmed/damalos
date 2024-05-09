@@ -55,7 +55,7 @@ nav_order: 7
 <td>10:20 - 10:30</td>
 <td>5' + 5' Q&A</td>
 <td>NFDI4Cat - Utilizing Semantic Web Technologies for a Data Infrastructure in Catalysis-Related Sciences</td>
-<td>Bianca Wentzel, Fraunhofer FOKUS – Institute for Open Communication Systems,</td>
+<td>Michael Peters, Fraunhofer FOKUS – Institute for Open Communication Systems,</td>
 </tr>
 
 <tr>
@@ -99,7 +99,7 @@ nav_order: 7
 <td>12:10 - 12:25</td>
 <td>10' + 5' Q&A</td>
 <td>Towards Flexible Assessment of Metadata Quality in Research Meta Portals</td>
-<td>Bianca Wentzel, Fraunhofer FOKUS – Institute for Open Communication Systems,</td>
+<td>Michael Peters, Fraunhofer FOKUS – Institute for Open Communication Systems,</td>
 </tr>
 
 <tr>
