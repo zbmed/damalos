@@ -6,9 +6,9 @@ nav_order: 7
 
 # Workshop schedule
 
-**Tentative Date**: 26th May 2024 TBC
+**Date**: 26th May 2024 TBC
 
-**Tentative Time**: Morning session 09:00 am to 12:30 pm local time (EEST, i.e., UTC+3) TBC
+**Time**: Morning session 09:00 am to 12:30 pm local time (EEST, i.e., UTC+3) TBC
 
 **Proceedings**: Papers will be Open Access and available at the PUBLISSO Fachrepositorium DaMaLOS 2024 collection
 
@@ -48,7 +48,7 @@ nav_order: 7
 <td>10:00 - 10:20</td>
 <td>10' + 5' Q&A</td>
 <td>What’s Cooking in the NFDI4Culture Kitchen? A KG-based Research Data Integration Workflow</td>
-<td>Oleksandra Bruns, Information Service Engineering, Karlsruhe Institute of Technologie</td>
+<td>Oleksandra Bruns, Information Service Engineering, Karlsruhe Institute of Technologie, and Linnaea Söhn, Academy of Sciences and Literature Mainz</td>
 </tr>
 
 <tr>
