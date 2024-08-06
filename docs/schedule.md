@@ -10,7 +10,7 @@ nav_order: 7
 
 **Time**: Morning session 09:00 am to 12:30 pm local time (EEST, i.e., UTC+3) TBC
 
-**Proceedings**: Papers will be Open Access and available at the PUBLISSO Fachrepositorium DaMaLOS 2024 collection
+**Proceedings**: Papers are Open Access and available at the [PUBLISSO Fachrepositorium DaMaLOS 2024 collection](https://repository.publisso.de/resource?query[0][term]="https://d-nb.info/gnd/1325329258"){:target="_blank"}. Corresponding presentations available at [Zenodo DaMaLOS Community](https://zenodo.org/communities/damalos/records){:target="_blank"}.
 
 ## Schedule
 
@@ -47,14 +47,14 @@ nav_order: 7
 <tr>
 <td>10:00 - 10:20</td>
 <td>10' + 5' Q&A</td>
-<td>What’s Cooking in the NFDI4Culture Kitchen? A KG-based Research Data Integration Workflow</td>
+<td>What’s Cooking in the NFDI4Culture Kitchen? A KG-based Research Data Integration Workflow <a href="https://doi.org/10.4126/FRL01-006474028" target="_blank">DOI:10.4126/FRL01-006474028</a></td>
 <td>Oleksandra Bruns, Information Service Engineering, Karlsruhe Institute of Technologie, and Linnaea Söhn, Academy of Sciences and Literature Mainz</td>
 </tr>
 
 <tr>
 <td>10:20 - 10:30</td>
 <td>5' + 5' Q&A</td>
-<td>NFDI4Cat - Utilizing Semantic Web Technologies for a Data Infrastructure in Catalysis-Related Sciences</td>
+<td>NFDI4Cat - Utilizing Semantic Web Technologies for a Data Infrastructure in Catalysis-Related Sciences <a href="https://doi.org/10.4126/FRL01-006473268" target="_blank">DOI:10.4126/FRL01-006473268</a></td>
 <td>Michael Peters, Fraunhofer FOKUS – Institute for Open Communication Systems,</td>
 </tr>
 
@@ -70,35 +70,35 @@ nav_order: 7
 <tr>
 <td>11:00 - 11:20</td>
 <td>15' + 5' Q&A</td>
-<td>An Appraisal of Automated Tools for FAIRness Evaluation</td>
+<td>An Appraisal of Automated Tools for FAIRness Evaluation <a href="https://doi.org/10.4126/FRL01-006474026" target="_blank">DOI:10.4126/FRL01-006474026</a> <strong>DaMaLOS 2024 best paper</strong></td>
 <td>Leonardo Guerreiro Azevedo, IBM Research - Brazil</td>
 </tr>
 
 <tr>
 <td>11:20 - 11:35</td>
 <td>10' + 5' Q&A</td>
-<td>Advancements and challenges in assessing FAIR Principles: a hybrid approach through manual and automated assessments</td>
+<td>Advancements and challenges in assessing FAIR Principles: a hybrid approach through manual and automated assessments <a href="https://doi.org/10.4126/FRL01-006473270" target="_blank">DOI:10.4126/FRL01-006473270</a></td>
 <td>Janete Saldanha Bach, GESIS – Leibniz Institute for the Social Sciences,</td>
 </tr>
 
 <tr>
 <td>11:35 - 11:55</td>
 <td>15' + 5' Q&A</td>
-<td>FAIR Data Publishing with Apache Maven</td>
+<td>FAIR Data Publishing with Apache Maven <a href="https://doi.org/10.4126/FRL01-006474023" target="_blank">DOI:10.4126/FRL01-006474023</a></td>
 <td>Claus Stadler, Institute for Applied Informatics</td>
 </tr>
 
 <tr>
 <td>11:55 - 12:10</td>
 <td>10' + 5' Q&A</td>
-<td>Towards FAIR Data in Energy System Research: Challenges and Perspectives</td>
+<td>Towards FAIR Data in Energy System Research: Challenges and Perspectives <a href="https://doi.org/10.4126/FRL01-006474025" target="_blank">DOI:10.4126/FRL01-006474025</a></td>
 <td>Amanda Wein, OFFIS e.V. and Carl von Ossietzky Universität Oldenburg</td>
 </tr>
 
 <tr>
 <td>12:10 - 12:25</td>
 <td>10' + 5' Q&A</td>
-<td>Towards Flexible Assessment of Metadata Quality in Research Meta Portals</td>
+<td>Towards Flexible Assessment of Metadata Quality in Research Meta Portals <a href="https://doi.org/10.4126/FRL01-006473809" target="_blank">DOI:10.4126/FRL01-0006473809</a></td>
 <td>Michael Peters, Fraunhofer FOKUS – Institute for Open Communication Systems,</td>
 </tr>
 

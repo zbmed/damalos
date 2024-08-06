@@ -40,7 +40,7 @@ Scientific research involves various digital objects including publications, sof
     "description": "4th Workshop on Metadata and Research (objects) Management for Linked Open Science - DaMaLOS 2024",
     "image": "https://zbmed.github.io/damalos/img/damalos.jpg",
     "startDate": "2024-05-26",
-    "endDate": "2024-05-27",
+    "endDate": "2024-05-26",
     "eventStatus": "https://schema.org/EventScheduled",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "keywords": "Research data management, research objects, research environments, Open Science, Linked Open Data, FAIRness, FAIRification, scientometrics, metadata",
