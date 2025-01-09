@@ -1,10 +1,10 @@
 title: "DaMaLOS 2025 @ ESWC"
 remote_theme: pmarsceill/just-the-docs
-logo: ./damalos2024.gif
+logo: ./damalos2025.gif
 search_enabled: false
 aux_links:
   "Home": "../index"
-footer_content: "email: TBC | Follow us on Fostodon/Mastodon and Twitter #DaMaLOS2024"
+footer_content: "email: TBC | Follow us on Fostodon/Mastodon #DaMaLOS2025"
 
 
 description: "DaMaLOS 2025 @ ESWC"
