@@ -6,7 +6,7 @@ nav_order: 5
 
 # Submission process
 
-This year DaMaLOS welcomes submissions in the form of long (up to 12 pages) and short (up to 6 pages) research papers, research objects (up to 3 pages), position papers (up to 6 pages), demos (up to 3 pages), posters (up to 3 pages).
+This year DaMaLOS welcomes submissions in the form of long (up to 12 pages) and short (up to 6 pages) research papers, research objects (up to 3 pages), position papers (up to 6 pages), demos (up to 3 pages), posters (up to 3 pages). References are not counted withing the page limit.
 
 Accepted papers will go to the proceedings of the workshop and will be publicly available under CC-by 4.0 license at [PUBLISSO FRL](https://repository.publisso.de/){:target="_blank"} indexed by [LIVIVO](https://www.livivo.de/) and [DBLP](https://dblp.org/search?q=damalos). PUBLISSO mints DOIs and provides a fast publication process that will allow us to have the proceedings ready right after the conference, including slides. Accepted workshop papers aligned with Life Sciences or domain-agnostic will be later invited to submit an extended and improved version to the Journal of Biomedical Semantics ([JBMS](./jbms)).
 
@@ -23,7 +23,7 @@ Accepted papers will go to the proceedings of the workshop and will be publicly 
 All submissions must be original and not simultaneously submitted to another journal or conference/workshop. All submissions must be in English. Proceedings of the workshop will be publicly available under [CC-by 4.0 license](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}; by submitting you agree to the use of this license for accepted papers. Papers should be formatted according to [LNCS templates](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines){:target="_blank"}
 
 ### Submission system
-All workshop submissions should be done via [EasyChair DaMaLOS-2024 workshop](https://easychair.org/conferences/?conf=damalos2024){:target="_blank"}
+All workshop submissions should be done via [DaMaLOS-2025 submission system](){:target="_blank"}
 
 ## Topics
  DaMaLOS targets the following (and similar) topics:
@@ -36,6 +36,7 @@ All workshop submissions should be done via [EasyChair DaMaLOS-2024 workshop](ht
   * Integration/alignment between FAIR and research management plans
   * FAIRification processes, either by design or post-research-object creation
   * FAIR tooling, e.g., evaluators, extensions, governance
+  * RO-Crates, Signposting and FDOs
 * Open Science and Scientometrics
   * Benefits of LOS over Open Science
   * How research plans and LOS can be used to improve collection and storage of (usually volatile) data produced at, e.g., conferences

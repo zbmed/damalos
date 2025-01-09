@@ -6,9 +6,9 @@ nav_order: 13
 
 # Contact
 
-DaMaLOS 2024
+DaMaLOS 2025
 
-email: damalos2024@easychair.org
+email: TBC
 
-## Follow us on Fostodon/Mastodon and Twitter
-#damalos2024
+## Follow us on Fostodon/Mastodon
+#damalos2025

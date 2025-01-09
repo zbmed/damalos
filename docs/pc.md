@@ -4,10 +4,9 @@ title: Program committee
 nav_order: 9
 ---
 
-# Program committee
+# Program committee TBC
 
-* Muhammad Ahtisham Aslam (Fraunhofer FOKUS, Germany)
-* Erick Antezana (Norwegian University of Science and Technology, Norway)
+* Erick Antezana (UNICC, Spain)
 * Alessia Bardi (Istituto di Scienza e Tecnologie dell’Informazione “A. Faedo”, CNR, Italy)
 * Robert Downs (The Center for International Earth Science Information Network (CIESIN), USA)
 * Chris Erdmann (SciLifeLab, Sweden)
@@ -18,7 +17,6 @@ nav_order: 9
 * José Labra (Universidad de Oviedo, Spain)
 * Carlos Martinez-Ortiz (eScience Center, the Netherlands)
 * Elli Papadopoulou (ATHENA Research Center and OpenAIRE, Greece)
-* Stian Soiland-Reyes (University of Manchester, UK)
 * Cassia Trojahn (Institut de Recherche en Informatique de Toulouse (IRIT), France)
 * Claus Weiland (Senckenberg – Leibniz Institution for Biodiversity and Earth System Research, Germany)
 * Mingfang Wu (Australian Research Data Commons, Australia)
