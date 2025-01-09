@@ -13,11 +13,11 @@ permalink: /
       <img src="./img/damalos-half.jpg" alt="DaMaLOS"/>
     </td>
     <td>
-    <strong>5th Workshop on Metadata and Research (objects) Management for Linked Open Science - DaMaLOS 2024</strong>
+    <strong>5th Workshop on Metadata and Research (objects) Management for Linked Open Science - DaMaLOS 2025</strong>
     <br/>
     <italic>(*) research objects (e.g., data, software, workflows, knowledge graphs, ro-crates)</italic>
     <br/><br/>
-    <strong>Co-located with <a href="https://2024.eswc-conferences.org/" target="_blank">ESWC</a> as part of <a href="https://nfdi4ds.github.io/mara/" target="_blank">MaRA - Joint Workshops on Management for Research Artifacts</a></strong>
+    <strong>Co-located with <a href="https://2025.eswc-conferences.org/" target="_blank">ESWC</a> as part of <a href="https://nfdi4ds.github.io/mara/" target="_blank">MaRA - Joint Workshops on Management for Research Artifacts</a></strong>
     <br/><br/>
     email: TBA <br/>
     Follow us on Fostodon/Mastodon #DaMaLOS2025
@@ -40,7 +40,7 @@ DaMaLOS targets researchers interested in the topics “science on science”, F
     "@id": "https://zbmed.github.io/damalos",
     "@type": "Event",
     "name": "DaMaLOS 2025",
-    "description": "5th Workshop on Metadata and Research (objects) Management for Linked Open Science - DaMaLOS 2024",
+    "description": "5th Workshop on Metadata and Research (objects) Management for Linked Open Science - DaMaLOS 2025",
     "image": "https://zbmed.github.io/damalos/img/damalos.jpg",
     "startDate": "2025-06-01",
     "endDate": "2025-06-02",
@@ -115,8 +115,8 @@ DaMaLOS targets researchers interested in the topics “science on science”, F
     "superEvent": {
         "@type": "Event",
         "@id": "https://2025.eswc-conferences.org/",
-        "name": "Extended Semantic Web Conference ESWC 2024",
-        "description": "The European Semantic Web Conference is a major venue for discussing the latest scientific results and technology innovations around semantic technologies. Building on its past success, ESWC is seeking to broaden its focus to span other relevant related research areas in which Web semantics plays an important role. The goal of the Semantic Web is to create a Web of knowledge and services in which the semantics of content is made explicit and content is linked to both other content and services allowing novel applications to combine content from heterogeneous sites in unforeseen ways and support enhanced matching between users needs and content. This network of knowledge-based functionality will weave together a large network of human knowledge, and make this knowledge machine-processable to support intelligent behaviour by machines. Creating such an interlinked Web of knowledge which spans unstructured text, structured data  as well as multimedia content and services requires the collaboration of many disciplines, including but not limited to: Artificial Intelligence, Natural Language Processing, Databases and Information Systems, Information Retrieval, Machine Learning, Multimedia, Distributed Systems, Social Networks, Web Engineering, and Web Science. These complementarities are reflected in the outline of the technical program of the ESWC 2024. ESWC 2024 will present the latest results in research, technologies and applications in its field. Besides the technical program organized over numerous tracks, the conference will feature a workshop and tutorial program, system descriptions and demos, a posters exhibition and a doctoral symposium.",
+        "name": "Extended Semantic Web Conference ESWC 2025",
+        "description": "The European Semantic Web Conference is a major venue for discussing the latest scientific results and technology innovations around semantic technologies. Building on its past success, ESWC is seeking to broaden its focus to span other relevant related research areas in which Web semantics plays an important role. The goal of the Semantic Web is to create a Web of knowledge and services in which the semantics of content is made explicit and content is linked to both other content and services allowing novel applications to combine content from heterogeneous sites in unforeseen ways and support enhanced matching between users needs and content. This network of knowledge-based functionality will weave together a large network of human knowledge, and make this knowledge machine-processable to support intelligent behaviour by machines. Creating such an interlinked Web of knowledge which spans unstructured text, structured data  as well as multimedia content and services requires the collaboration of many disciplines, including but not limited to: Artificial Intelligence, Natural Language Processing, Databases and Information Systems, Information Retrieval, Machine Learning, Multimedia, Distributed Systems, Social Networks, Web Engineering, and Web Science. These complementarities are reflected in the outline of the technical program of the ESWC 2025. ESWC 2025 will present the latest results in research, technologies and applications in its field. Besides the technical program organized over numerous tracks, the conference will feature a workshop and tutorial program, system descriptions and demos, a posters exhibition and a doctoral symposium.",
         "startDate": "2025-06-01",
         "endDate": "2025-06-05",
         "eventStatus": "https://schema.org/EventScheduled",

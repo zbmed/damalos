@@ -26,7 +26,7 @@ _Header for even pages, alignment to the left_
 
 <table >
   <tr>
-    <td style="text-align:left">#page-number Doe et al. (2024) Title of the article...</td>
+    <td style="text-align:left">#page-number Doe et al. (2025) Title of the article...</td>
   </tr>
 </table>
 
