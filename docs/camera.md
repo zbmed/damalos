@@ -8,7 +8,9 @@ nav_order: 6
 
 ## Guidelines
 
-Camera-ready versions for accepted papers should be submitted via [DaMaLOS-2025 submission system](){:target="_blank"} as an update to the original submission. No authors should be added at this stage.
+Camera-ready versions for accepted papers should be submitted via [DaMaLOS-2025 submission system](https://app.oxfordabstracts.com/stages/77706/submitter){:target="_blank"} as an update to the original submission. No authors should be added at this stage. In addition to the revised version, you will also have to submit the consent for publication and the metadata corresponding to your submission (both files will be shared with corresponding authors of accepted submissions).
+
+Slides corresponding to the presentation could be deposited in other platforms. A link to the proceedings should be included. If deposited in Zenodo, we would appreciate that you add them to the [DaMaLOS community](https://zenodo.org/communities/damalos){:target="_blank"}, which has been used since 2024. 
 
 * Submission deadline (camera-ready version): 17th April 2025 (publication will be aligned with the actual workshop day)
 * Reserved DOI: A DOI will be communicated directly to authors (particularly corresponding authors)
@@ -50,4 +52,4 @@ Accepted workshop papers aligned to the Life Sciences domain or domain-agnostic 
 
 ## Submission system
 
-All submissions should be done via [DaMaLOS-2025 submission system](){:target="_blank"}
+All submissions should be done via [DaMaLOS-2025 submission system](https://app.oxfordabstracts.com/stages/77706/submitter){:target="_blank"}
