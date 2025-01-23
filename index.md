@@ -19,7 +19,7 @@ permalink: /
     <br/><br/>
     <strong>Co-located with <a href="https://2025.eswc-conferences.org/" target="_blank">ESWC</a> as part of <a href="https://nfdi4ds.github.io/mara/" target="_blank">MaRA - Joint Workshops on Management for Research Artifacts</a></strong>
     <br/><br/>
-    email: TBA <br/>
+    email: [mara-damalos-airdem at googlegroups dot com](mailto:mara-damalos-airdem@googlegroups.com) <br/>
     Follow us on Fostodon/Mastodon #DaMaLOS2025
     </td>
   </tr>

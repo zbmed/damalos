@@ -8,7 +8,7 @@ nav_order: 13
 
 DaMaLOS 2025
 
-email: TBC
+email: [mara-damalos-airdem at googlegroups dot com](mailto:mara-damalos-airdem@googlegroups.com)
 
 ## Follow us on Fostodon/Mastodon
 #damalos2025
