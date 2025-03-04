@@ -18,6 +18,24 @@ Accepted papers will go to the proceedings of the workshop and will be publicly 
 * Demos (up to 3 pages): Presenting tools (software, workflows and so) from a practical perspective
 * Posters (up to 3 pages): Presenting works in a graphical display
 
+**Note 1:** If your submission refers to other research artifacts produced as part of the research you are reporting about, e.g., datasets, software releases, workflows, machine learning models, we encourage you to deposit those research artifacts into repositories so they are recognized on their own with citation details and corresponding identifier. During the camera-ready process, we will ask you some additional information about those resaerch artifacts so we can include it as part of the embedded JSON-LD providing metadata for each accepted paper. Below you can see an example of the metadata that we have provided in previous years.
+
+```
+{ 
+  "@context": "https://schema.org", 
+  "http://purl.org/dc/terms/conformsTo": "https://bioschemas.org/profiles/ScholarlyArticle/0.3-DRAFT", 
+  "@type": "ScholarlyArticle", 
+  "@id": "https://doi.org/10.4126/FRL01-006423950", 
+  "identifier": "DOI:10.4126/FRL01-006423950", 
+  "name": "Keynote: The swings and roundabouts of a decade of fun and games with Research Objects", 
+  "headline": "Keynote: The swings and roundabouts of a decade of fun and games with Research Objects", 
+  "publisher": "https://repository.publisso.de/", 
+  "isPartOf": { "@id": "https://d-nb.info/gnd/121881389X" }, 
+  "license": "https://creativecommons.org/licenses/by/4.0/" 
+}
+```
+
+**Note 2:** This year, in addition to the regular text-based PDF article, you also have the opportunity to submit, if you wish, a more machine-readable format of your submission. This could be, for instance, an editable text-based file or a [nanopublication](https://nanopub.net/). Bundle the files together as a ZIP file. Accepted contributions will include all the files that you submit (if any the file is bigger than a couple of GB, we will contact you to figure it out how to proceed).
 
 ### Guidelines
 All submissions must be original and not simultaneously submitted to another journal or conference/workshop. All submissions must be in English. Proceedings of the workshop will be publicly available under [CC-by 4.0 license](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}; by submitting you agree to the use of this license for accepted papers. Papers should be formatted according to [LNCS templates](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines){:target="_blank"}.
